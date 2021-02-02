@@ -1,13 +1,13 @@
 {
   "title": "Our work and mission2",
-  "image": "/images/centre_enter-cropped.jpeg",
+  "image": "files/images/centre_enter-cropped.jpeg",
   "staff": [
     {
       "name": "Rick Hutchins",
       "id": "vi5obujaz",
       "position": "Executive Director",
       "email": "acf@nb.aibn.com",
-      "photo": "/images/rick.jpg"
+      "photo": "files/images/rick.jpg"
     },
     {
       "id": "gg8jx8znl",
