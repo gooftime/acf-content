@@ -1,0 +1,164 @@
+{
+  "logo": "/images/logo_text.png",
+  "ourCentre": {
+    "colOneLabel": "General",
+    "colTwoLabel": "We offer",
+    "colOneLinks": [
+      {
+        "label": "About us",
+        "url": "/about"
+      },
+      {
+        "label": "News",
+        "url": "/posts"
+      },
+      {
+        "label": "Contacts",
+        "url": "/contacts"
+      }
+    ],
+    "colTwoLinks": [
+      {
+        "label": "Membership",
+        "url": "/membership"
+      },
+      {
+        "label": "Renting the centre",
+        "url": "/renting-the-centre"
+      },
+      {
+        "label": "Birthdays and Parties",
+        "url": "/birthday-party"
+      }
+    ]
+  },
+  "programs": {
+    "label": "Programs ",
+    "links": [
+      {
+        "label": "Healthy Relationships, Sexuality and Autism",
+        "url": "/healthy-relationships-sexuality-and-autism"
+      },
+      {
+        "label": "Art is a Spectrum Gallery-2019",
+        "url": "/art-is-a-spectrum-gallery-2019"
+      },
+      {
+        "label": "Social Skills Program",
+        "url": "/social-skills-program-2020"
+      },
+      {
+        "label": "Camp Marvel",
+        "url": "/camp-marvel"
+      },
+      {
+        "label": "Tutoring",
+        "url": "/tutoring"
+      },
+      {
+        "label": "Art classes",
+        "url": "/art-classes"
+      },
+      {
+        "label": "Support group for adults",
+        "url": "/support-adults"
+      },
+      {
+        "label": "No Limits Soccer",
+        "url": "/no-limits-soccer"
+      },
+      {
+        "label": "Support group for families",
+        "url": "/support-families"
+      },
+      {
+        "label": "Chat'n'Chill",
+        "url": "/chat-n-chill"
+      }
+    ],
+    "banner": {
+      "title": "Camp Marvel",
+      "description": "A unique camp for children with ASD.",
+      "buttonLabel": "Learn more",
+      "buttonUrl": "/camp-marvel",
+      "image": "/images/boy.png"
+    }
+  },
+  "resources": {
+    "banner": {
+      "title": "ACF Resource Guide",
+      "description": "A comprehensive guide on ASD and resources for those who need them.",
+      "buttonLabel": "Download",
+      "buttonUrl": "/resource-guide",
+      "image": "/images/books.jpg"
+    },
+    "colOneLinks": [
+      {
+        "label": "Resource Centers",
+        "description": "Contacts and addresses",
+        "url": "/resource-centers"
+      },
+      {
+        "label": "Other programs",
+        "description": "ASD-related programs",
+        "url": "/asd-related-programs"
+      },
+      {
+        "label": "Lending Library",
+        "description": "",
+        "url": "/lending-library"
+      }
+    ],
+    "colTwoLinks": [
+      {
+        "label": "Helpful Links",
+        "description": "Various useful resources",
+        "url": "/helpful-links"
+      },
+      {
+        "label": "Resource Guide",
+        "description": "A comprehensive guide",
+        "url": "/resource-guide"
+      },
+      {
+        "label": "Adult Services Tour",
+        "description": "A provincial focus on services for adults with autism",
+        "url": "/adult-services-tour"
+      }
+    ]
+  },
+  "waysToGive": {
+    "banner": {
+      "url": "/contacts",
+      "image": "/images/menu-banner.jpg"
+    },
+    "colOneLinks": [
+      {
+        "label": "Donations",
+        "description": "Support us directly",
+        "url": "/donations",
+        "icon": "/images/donate-colored.png"
+      },
+      {
+        "label": "Wish list",
+        "description": "Things ACF needs",
+        "url": "/donations#wish-list",
+        "icon": "/images/wish-list-colored.png"
+      }
+    ],
+    "colTwoLinks": [
+      {
+        "label": "Fundraising",
+        "description": "Help us reach out",
+        "url": "/fundraising-volunteer",
+        "icon": "/images/fundrise-colored.png"
+      },
+      {
+        "label": "Volunteer",
+        "description": "Get involved",
+        "url": "/fundraising-volunteer#volunteer",
+        "icon": "/images/volunteer-colored.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "new test post",
+  "date": "2020-06-19T16:26:09.524Z",
+  "author": "Autism Connections Fredericton",
+  "path": "/post/2020-06-19-new-test-post",
+  "image": "/images/posts/virtual-surephero-walk-post.png",
+  "imageShadow": false,
+  "contentBlocks": [
+    {
+      "label": "",
+      "title": "Image",
+      "createdOn": "Sat Jun 20 2020 12:57:10 GMT-0300 (Atlantic Daylight Time)",
+      "src": "/images/uploads/virtual-surephero-walk-post.png",
+      "width": 100,
+      "height": 100,
+      "margin": {
+        "mb": "5"
+      },
+      "_template": "ImageBlock",
+      "shadow": "none"
+    },
+    {
+      "createdOn": "Sat Jun 20 2020 12:57:10 GMT-0300 (Atlantic Daylight Time)",
+      "label": "",
+      "content": "<p>We are only 10 short and HOT days away from our big day!🥵 If you register now through Monday, June 22nd, 2020 you will be entered in to win one of our Superhero t-shirts and an Autism Awareness Christmas ornament! 🦸‍♂️🦸‍♀️ We hope to see you all signing up!! ❤️🤩</p>",
+      "center": false,
+      "margin": {
+        "mb": "4"
+      },
+      "_template": "ContentBlock"
+    }
+  ],
+  "cardDescription": "new test postnew test postnew test postnew test postnew test postnew test postnew test postnew test postnew test postqweqweqweqweqwe",
+  "cardImage": "/images/posts/virtual-surephero-walk-post-mini.png",
+  "previewCard": false
+}

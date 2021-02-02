@@ -1,0 +1,80 @@
+{
+  "pageTitle": "Social Skills Program 2020",
+  "date": "2020-11-12T02:00:18.897Z",
+  "path": "social-skills-program-2020",
+  "headerBlocks": [
+    {
+      "createdOn": "Wed Nov 11 2020 22:00:20 GMT-0400 (Atlantic Standard Time)",
+      "title": "Social Skills Program 2020",
+      "subtitle": "",
+      "heroImage": "/images/socialskills.jpg",
+      "posterImage": "/images/skills.jpeg",
+      "_template": "HeroPosterBlock"
+    }
+  ],
+  "contentBlocks": [
+    {
+      "createdOn": "Wed Nov 11 2020 22:00:20 GMT-0400 (Atlantic Standard Time)",
+      "label": "",
+      "enabled": true,
+      "cols": [
+        {
+          "createdOn": "Wed Nov 11 2020 22:00:20 GMT-0400 (Atlantic Standard Time)",
+          "label": "",
+          "enabled": true,
+          "size": 12,
+          "blocks": [
+            {
+              "createdOn": "Thu Nov 12 2020 01:13:21 GMT-0400 (Atlantic Standard Time)",
+              "label": "",
+              "title": "Image",
+              "src": "/images/uploads/Gary O'Donnell.png",
+              "width": 40,
+              "height": 100,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ImageBlock",
+              "AOS": {
+                "enabled": false,
+                "delay": 0,
+                "duration": 400,
+                "animation": "fade-up"
+              },
+              "shadow": "none",
+              "transform": {
+                "scaleX": 1,
+                "scaleY": 1,
+                "rotate": 0,
+                "skewX": 0,
+                "skewY": 0
+              }
+            },
+            {
+              "createdOn": "Wed Nov 11 2020 22:00:20 GMT-0400 (Atlantic Standard Time)",
+              "label": "",
+              "content": "<p>Program description </p>",
+              "center": false,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ContentBlock"
+            }
+          ],
+          "settings": {
+            "alignContent": "center",
+            "justifyContent": "start"
+          },
+          "_template": "ColumnBlock"
+        }
+      ],
+      "settings": {
+        "spaceAbove": "2",
+        "spaceBelow": "2",
+        "alignContent": "center",
+        "bgColor": "white"
+      },
+      "_template": "ContainerRowBlock"
+    }
+  ]
+}

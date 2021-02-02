@@ -1,0 +1,86 @@
+{
+  "label": "Resource Centres",
+  "headerBlocks": [
+    {
+      "createdOn": "Sun Jun 07 2020 07:36:50 GMT+0300 (Moscow Standard Time)",
+      "title": "Resource Centres",
+      "subtitle": "Latest updates and Hand-picked resources.",
+      "spaceAbove": "2",
+      "spaceBelow": "1",
+      "_template": "HeroSimpleBlock"
+    }
+  ],
+  "centres": [
+    {
+      "title": "Autism Connections Fredericton",
+      "createdOn": "Sun Jun 07 2020 07:55:07 GMT+0300 (Moscow Standard Time)",
+      "director": "Rick Hutchins",
+      "email": "acf@nb.aibn.com",
+      "phone": "+1 (506) 450-6025",
+      "website": "www.autismconnectionsfredericton.com",
+      "address": "1666 Lincoln Rd Fredericton\nNB E3B 8J6",
+      "coordinates": {
+        "lng": "-66.586309",
+        "lat": "45.909393"
+      }
+    },
+    {
+      "title": "Autism Resources Miramichi Inc.",
+      "createdOn": "Sun Jun 07 2020 07:56:04 GMT+0300 (Moscow Standard Time)",
+      "director": "Cindi Green",
+      "email": "arm@nb.aibn.com",
+      "phone": "+1 (506) 622-8137",
+      "address": "1 Allan St. Miramichi, NB E1V 6A9",
+      "coordinates": {
+        "lng": "-65.495491",
+        "lat": "47.031045"
+      }
+    },
+    {
+      "title": "Centre D’Excellence en Autisme de la Peninsule Acadienne",
+      "createdOn": "Sun Jun 07 2020 08:12:21 GMT+0300 (Moscow Standard Time)",
+      "director": "Liette Lanteigne",
+      "email": "ceapa186@gmail.com",
+      "phone": "+1 (506) 337-0584",
+      "address": "149 Rue DeGrace Shippagan, NB E8S 1H3",
+      "coordinates": {
+        "lng": "-64.714760",
+        "lat": "47.743380"
+      }
+    },
+    {
+      "title": "Dragonfly Centre for Autism Inc.",
+      "createdOn": "Sun Jun 07 2020 19:14:46 GMT+0300 (Moscow Standard Time)",
+      "address": "239 Water St. St. Andrews, NB E5B 1B3",
+      "director": "Janet Lister Caldwell",
+      "email": "dragonfly@nb.aibn.com",
+      "phone": "+1 (506) 529-8002",
+      "website": "www.dragonflyforautism.ca",
+      "coordinates": {
+        "lng": "0",
+        "lat": "0"
+      }
+    },
+    {
+      "title": "Chaleur Autism and Asperger Family Centre Inc.",
+      "createdOn": "Sun Jun 07 2020 20:02:19 GMT+0300 (Moscow Standard Time)",
+      "address": "702 Main St. Petit Rocher Beresford\nNB E8K 2H6",
+      "coordinates": {
+        "lng": "-65.701072",
+        "lat": "47.691662"
+      },
+      "director": "Murielle Roy",
+      "email": "cfcaa.caafc@bellaliant.com",
+      "phone": "+1 (506) 542-9448",
+      "website": "www.autismchaleur.com"
+    }
+  ],
+  "title": "Resource Centres",
+  "heroSimple": {
+    "title": "Resource Centres",
+    "subtitle": "Latest updates and Hand-picked resources.",
+    "spaceAbove": "3",
+    "spaceBelow": "1"
+  },
+  "pageTitle": "Resource Centres"
+}

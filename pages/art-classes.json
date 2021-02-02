@@ -1,0 +1,54 @@
+{
+  "pageTitle": "Art classes",
+  "date": "2020-06-19T06:31:18.141Z",
+  "path": "art-classes",
+  "headerBlocks": [
+    {
+      "createdOn": "Fri Jun 19 2020 03:31:26 GMT-0300 (Atlantic Daylight Time)",
+      "title": "Art classes ",
+      "subtitle": "",
+      "heroImage": "/images/online-resources-13.jpg",
+      "posterImage": "https://via.placeholder.com/320x400",
+      "_template": "HeroPosterBlock"
+    }
+  ],
+  "contentBlocks": [
+    {
+      "createdOn": "Fri Jun 19 2020 03:31:26 GMT-0300 (Atlantic Daylight Time)",
+      "label": "Row",
+      "width": 100,
+      "spaceAbove": "2",
+      "spaceBelow": "2",
+      "alignContent": "center",
+      "cols": [
+        {
+          "createdOn": "Tue Jan 19 2021 14:14:35 GMT-0400 (Atlantic Standard Time)",
+          "label": "",
+          "enabled": true,
+          "size": 12,
+          "blocks": [
+            {
+              "createdOn": "Tue Jan 19 2021 14:14:35 GMT-0400 (Atlantic Standard Time)",
+              "label": "",
+              "title": "UPDATE",
+              "message": "<p>This program is currently on hold because of COVID-19</p>",
+              "variant": "Primary",
+              "light": false,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "AlertBlock"
+            }
+          ],
+          "settings": {
+            "alignContent": "center",
+            "justifyContent": "start"
+          },
+          "_template": "ColumnBlock"
+        }
+      ],
+      "_template": "ContainerRowBlock",
+      "enabled": true
+    }
+  ]
+}

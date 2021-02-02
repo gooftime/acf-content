@@ -1,0 +1,21 @@
+{
+  "title": "Article 2",
+  "date": "2020-06-13T02:50:54.102Z",
+  "author": "Autism Connections Fredericton",
+  "path": "/post/2020-06-13-article-2",
+  "image": "/images/posts/patron-16.png",
+  "imageShadow": true,
+  "contentBlocks": [
+    {
+      "createdOn": "Sat Jun 13 2020 05:50:56 GMT+0300 (Moscow Standard Time)",
+      "label": "Text",
+      "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam id diam maecenas ultricies mi eget mauris. Iaculis at erat pellentesque adipiscing commodo elit at imperdiet. Donec enim diam vulputate ut pharetra. Ullamcorper sit amet risus nullam eget felis. Vulputate dignissim suspendisse in est ante in. Amet risus nullam eget felis. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Feugiat vivamus at augue eget arcu dictum varius duis at. Vel orci porta non pulvinar neque laoreet suspendisse.</p><p>Mus mauris vitae ultricies leo integer malesuada nunc. Ultrices in iaculis nunc sed. Consectetur purus ut faucibus pulvinar elementum integer. Amet aliquam id diam maecenas ultricies. Ipsum consequat nisl vel pretium lectus quam id leo in. Velit scelerisque in dictum non consectetur a. Commodo quis imperdiet massa tincidunt nunc. Aenean sed adipiscing diam donec adipiscing tristique. Diam volutpat commodo sed egestas egestas fringilla. Dui nunc mattis enim ut. Convallis posuere morbi leo urna molestie at. Duis ultricies lacus sed turpis tincidunt id. Imperdiet dui accumsan sit amet nulla facilisi morbi. Viverra mauris in aliquam sem fringilla. Pretium quam vulputate dignissim suspendisse in est. Morbi tincidunt ornare massa eget egestas purus viverra. Pellentesque adipiscing commodo elit at imperdiet. Eros in cursus turpis massa tincidunt dui ut ornare lectus. Tellus id interdum velit laoreet id donec ultrices tincidunt arcu. Porttitor lacus luctus accumsan tortor posuere ac ut consequat.</p>",
+      "center": false,
+      "margin": {
+        "mb": "4"
+      },
+      "_template": "ContentBlock"
+    }
+  ],
+  "cardDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+}

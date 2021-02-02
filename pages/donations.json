@@ -1,0 +1,225 @@
+{
+  "pageTitle": "Donations and Wish List",
+  "date": "2020-06-14T06:51:19.038Z",
+  "headerBlocks": [],
+  "contentBlocks": [
+    {
+      "createdOn": "Sun Jun 14 2020 09:51:22 GMT+0300 (Moscow Standard Time)",
+      "label": "Help Us Help Row",
+      "width": 100,
+      "spaceAbove": "2",
+      "spaceBelow": "2",
+      "alignContent": "center",
+      "cols": [
+        {
+          "createdOn": "Sun Jun 14 2020 09:51:22 GMT+0300 (Moscow Standard Time)",
+          "label": "Column",
+          "size": 12,
+          "blocks": [
+            {
+              "createdOn": "Sun Jun 14 2020 09:51:22 GMT+0300 (Moscow Standard Time)",
+              "label": "Title",
+              "title": "Help Us Help",
+              "size": "Page header",
+              "center": true,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "TitleBlock",
+              "subtitle": "Your support enables us."
+            },
+            {
+              "createdOn": "Sun Jun 14 2020 09:51:22 GMT+0300 (Moscow Standard Time)",
+              "label": "Dark text block",
+              "text": "Each contribution made by our supporters allows us to give more to those in our community who need special assistance and support. We wholeheartedly thank you for your help! With it, ACF is able to make even more lives of people with ASD better.",
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "DarkTextBlockBlock"
+            }
+          ],
+          "alignContent": "center",
+          "justifyContent": "start",
+          "_template": "ColumnBlock",
+          "enabled": true
+        }
+      ],
+      "_template": "ContainerRowBlock",
+      "backgroudColor": "light",
+      "enabled": true,
+      "settings": {
+        "spaceAbove": "1",
+        "spaceBelow": "1"
+      }
+    },
+    {
+      "createdOn": "Sun Jun 14 2020 09:51:22 GMT+0300 (Moscow Standard Time)",
+      "label": "Wish list Row",
+      "width": 100,
+      "spaceAbove": "2",
+      "spaceBelow": "3",
+      "alignContent": "center",
+      "cols": [
+        {
+          "createdOn": "Sun Jun 14 2020 09:51:22 GMT+0300 (Moscow Standard Time)",
+          "label": "Title Column",
+          "size": 12,
+          "blocks": [
+            {
+              "createdOn": "Sun Jun 14 2020 09:51:22 GMT+0300 (Moscow Standard Time)",
+              "label": "Title",
+              "title": "Wish list",
+              "size": "Page header",
+              "center": true,
+              "margin": {
+                "mb": "5"
+              },
+              "_template": "TitleBlock",
+              "subtitle": "We appreciate any of these items."
+            }
+          ],
+          "alignContent": "center",
+          "justifyContent": "start",
+          "_template": "ColumnBlock"
+        },
+        {
+          "createdOn": "Sun Jun 14 2020 09:51:22 GMT+0300 (Moscow Standard Time)",
+          "label": "Left Column",
+          "size": 6,
+          "blocks": [
+            {
+              "createdOn": "Sun Jun 14 2020 09:51:22 GMT+0300 (Moscow Standard Time)",
+              "label": "Text",
+              "content": "<h5><strong>Children’s books in various languages</strong></h5><ul><li><p>Uniquely Human: A Different Way of Seeing Autism</p></li><li><p>Since We're Friends</p></li><li><p>Self-Regulation Interventions and Strategies</p></li><li><p>​The Survival Guide for Children with Autism Spectrum Disorders</p></li><li><p>Ten Things Every Child with Autism Wishes You Knew</p></li><li><p>1001 Great Ideas for Teaching and Raising Children with Autism Spectrum Disorders</p></li><li><p>Any book by Temple Grandin​</p></li></ul><h5><strong>Craft supplies</strong></h5><ul><li><p>Glue sticks</p></li><li><p>Construction paper</p></li><li><p>Markers</p></li><li><p>​Colouring books</p></li><li><p>Modeling clay​</p></li></ul><h5><strong>Non-perishable snack items for activities and events (all nut free please)</strong></h5><ul><li><p>Juice boxes / bottled apple juice / hot chocolate / coffee / tea</p></li><li><p>Sugar / sweetener packages</p></li><li><p>Nut free items (granola bars, fruit snacks, rice crispy treats etc.)</p></li><li><p>Popcorn</p></li><li><p>Chips</p></li><li><p>Gluten free item</p></li></ul>",
+              "center": false,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ContentBlock"
+            }
+          ],
+          "alignContent": "center",
+          "justifyContent": "start",
+          "_template": "ColumnBlock",
+          "enabled": true
+        },
+        {
+          "createdOn": "Sun Jun 14 2020 09:51:22 GMT+0300 (Moscow Standard Time)",
+          "label": "Right Column",
+          "size": 6,
+          "blocks": [
+            {
+              "createdOn": "Sun Jun 14 2020 09:51:22 GMT+0300 (Moscow Standard Time)",
+              "label": "Text",
+              "content": "<h5><strong>Office Supplies</strong></h5><ul><li><p>Multipurpose printer/copier paper in legal and letter sizes, white and colours needed</p></li><li><p>Card stock (colour and white)</p></li><li><p>Letter sized file folders</p></li><li><p>Thank you cards (blank on the inside)</p></li><li><p>Pens, pencils, highlighters, erasers, white out, sharpie fine point markers</p></li><li><p>Paperclips, document clips (various sizes)</p></li><li><p>Kraft catalogue envelopes (9x12)</p></li><li><p>Letter sized envelopes</p></li><li><p>Kraft padded envelopes/bubble mailer (6x9)</p></li><li><p>Tape (scotch, masking and packing tape)</p></li><li><p>Permanent postage stampsInk/toner</p></li></ul><h5><strong>Cleaning items</strong></h5><ul><li><p>Large kitchen garbage bags</p></li><li><p>Recycling bags</p></li><li><p>Windex Multi Surface with Vinegar Trigger Spray (or any multipurpose spray)</p></li><li><p>Facial tissue</p></li><li><p>Microfiber cleaning cloths</p></li></ul><h5><strong>Ink/toner</strong></h5><ul><li><p>TN331BK - Black ink cartridge for brother MFC-L8850CDW</p></li><li><p>TN331C - Cyan ink cartridge for brother MFC-L8850CDW</p></li><li><p>TN331Y - Yellow ink cartridge for brother MFC-L8850CDW</p></li><li><p>​TN331M - Magenta ink cartridge for brother MFC-L8850CDW</p></li></ul>",
+              "center": false,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ContentBlock"
+            }
+          ],
+          "alignContent": "center",
+          "justifyContent": "start",
+          "_template": "ColumnBlock",
+          "enabled": true
+        }
+      ],
+      "_template": "ContainerRowBlock",
+      "id": "wish-list",
+      "enabled": true,
+      "settings": {
+        "spaceAbove": "1",
+        "spaceBelow": "2"
+      }
+    }
+  ],
+  "header": {
+    "titleBlocks": [
+      {
+        "createdOn": "Wed Jun 17 2020 16:39:26 GMT-0300 (Atlantic Daylight Time)",
+        "label": "Title",
+        "title": "For the most amazing people on Earth",
+        "size": "Page header",
+        "center": false,
+        "margin": {
+          "mb": "7"
+        },
+        "_template": "TitleBlock",
+        "subtitle": "Please consider donating to our centre."
+      },
+      {
+        "createdOn": "Wed Jun 17 2020 16:39:26 GMT-0300 (Atlantic Daylight Time)",
+        "label": "Tabs",
+        "backgroudColor": "white",
+        "spaceAbove": "2",
+        "spaceBelow": "2",
+        "_template": "TabsBlock",
+        "tabs": [
+          {
+            "createdOn": "Wed Jun 17 2020 16:39:26 GMT-0300 (Atlantic Daylight Time)",
+            "title": "Online",
+            "blocks": [
+              {
+                "createdOn": "Wed Jun 17 2020 16:39:26 GMT-0300 (Atlantic Daylight Time)",
+                "label": "Text",
+                "content": "<p><strong>Donate through Canadahelp.org</strong></p>",
+                "center": false,
+                "margin": {
+                  "mb": "4"
+                },
+                "_template": "ContentBlock"
+              },
+              {
+                "createdOn": "Wed Jun 17 2020 16:49:40 GMT-0300 (Atlantic Daylight Time)",
+                "label": "Button",
+                "title": "Go to Canadahelp.org",
+                "color": "Primary",
+                "design": "Wide",
+                "center": false,
+                "url": "https://www.canadahelps.org/en/dn/3724",
+                "margin": {
+                  "mb": "0"
+                },
+                "_template": "ButtonLinkBlock",
+                "outline": true
+              }
+            ]
+          },
+          {
+            "createdOn": "Wed Jun 17 2020 16:39:26 GMT-0300 (Atlantic Daylight Time)",
+            "title": "Cash/Cheque",
+            "blocks": [
+              {
+                "createdOn": "Wed Jun 17 2020 16:39:26 GMT-0300 (Atlantic Daylight Time)",
+                "label": "Text",
+                "content": "<p>Please make cheques payable to Autism Connections Fredericton.</p><p>Cash/Cheque donations can be mailed or delivered to our office at:</p><p><em><strong>Autism Connections Fredericton<br>1666 Lincoln Road<br>Fredericton, NB E3B 8J6</strong></em></p><p class=\"text-title\">Tax receipts will be issued for donations of $15 or more.</p>",
+                "center": false,
+                "margin": {
+                  "mb": "0"
+                },
+                "_template": "ContentBlock"
+              }
+            ]
+          },
+          {
+            "createdOn": "Wed Jan 06 2021 22:28:01 GMT-0400 (Atlantic Standard Time)",
+            "title": "PayPal/eTransfer",
+            "blocks": [
+              {
+                "createdOn": "Tue Jan 19 2021 10:21:34 GMT-0400 (Atlantic Standard Time)",
+                "label": "Email",
+                "content": "<p>Email address: <strong>ACF@NB.AIBN.COM</strong></p>",
+                "center": false,
+                "margin": {
+                  "mb": "4"
+                },
+                "_template": "ContentBlock"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

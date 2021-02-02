@@ -1,0 +1,20 @@
+{
+  "title": "Contacts",
+  "address": "1666 Lincoln Rd.,\nFredericton, NB E3B 8J6, CA",
+  "coordinates": {
+    "lng": "-66.586309",
+    "lat": "45.909393",
+    "title": "Autism Connections Fredericton"
+  },
+  "heroSimple": {
+    "title": "Contacts",
+    "subtitle": "We'd love to talk about how we can help you.",
+    "spaceAbove": "3",
+    "spaceBelow": "0"
+  },
+  "director": "Rick Hutchins",
+  "phone": "+1 (506) 450-6025",
+  "email": "jhunter.acf@outlook.com",
+  "facebook": "AutismConnectionsFredericton",
+  "pageTitle": "Contacts"
+}

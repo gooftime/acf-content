@@ -1,0 +1,33 @@
+{
+  "title": "How To: Virtual Superhero Walk/Run",
+  "date": "2020-06-22T00:48:56.777Z",
+  "author": "Autism Connections Fredericton",
+  "path": "/post/2020-06-22-how-to:-virtual-superhero-walk",
+  "cardPreview": true,
+  "cardImage": "/images/posts/maxresdefault.jpg",
+  "cardDescription": "In this video, you can find details about how our 10th annual Superhero FunRun/Walk for Autism will look. We are so excited to share this exciting news with you all and cannot wait to see everyone's photos, June 27th 2020.",
+  "contentBlocks": [
+    {
+      "createdOn": "Sun Jun 21 2020 21:48:56 GMT-0300 (Atlantic Daylight Time)",
+      "label": "",
+      "content": "<p>In this video, you can find details about how our 10th annual Superhero FunRun/Walk for Autism will look. We are so excited to share this exciting news with you all and cannot wait to see everyone's photos, June 27th 2020.</p>",
+      "margin": {
+        "mb": "5"
+      },
+      "_template": "ContentBlock"
+    },
+    {
+      "createdOn": "Sun Jun 21 2020 21:48:57 GMT-0300 (Atlantic Daylight Time)",
+      "label": "",
+      "width": 80,
+      "shadow": "medium",
+      "src": "https://www.youtube.com/embed/iSH17TTm7tI",
+      "margin": {
+        "mb": "4"
+      },
+      "_template": "VideoBlock",
+      "center": true
+    }
+  ],
+  "previewCard": true
+}

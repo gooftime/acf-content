@@ -1,0 +1,161 @@
+{
+  "pageTitle": "Helpful Links",
+  "date": "2020-06-20T02:55:54.094Z",
+  "path": "helpful-links",
+  "headerBlocks": [],
+  "contentBlocks": [
+    {
+      "createdOn": "Fri Jun 19 2020 23:55:57 GMT-0300 (Atlantic Daylight Time)",
+      "label": "Tabs",
+      "tabPanelLabel": "Helpful Links",
+      "tabs": [
+        {
+          "createdOn": "Tue Jan 19 2021 14:56:28 GMT-0400 (Atlantic Standard Time)",
+          "title": "Autism Speaks",
+          "blocks": [
+            {
+              "createdOn": "Tue Jan 19 2021 14:56:28 GMT-0400 (Atlantic Standard Time)",
+              "label": "",
+              "title": "Autism Speaks Canada",
+              "size": "Header 2",
+              "center": false,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "TitleBlock",
+              "subtitle": ""
+            },
+            {
+              "createdOn": "Tue Jan 19 2021 14:56:28 GMT-0400 (Atlantic Standard Time)",
+              "label": "Autism Speaks Canada",
+              "content": "<p>Autism Speaks Canada is dedicated to promoting solutions, across the spectrum and throughout the lifespan, for the needs of individuals with autism and their families by supporting and working with community partners; enhancing resources and services; increasing understanding, acceptance and inclusion of people with autism spectrum disorder; and advancing research into causes and better interventions for autism spectrum disorder and related conditions.</p>",
+              "center": false,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ContentBlock"
+            },
+            {
+              "createdOn": "Tue Jan 19 2021 14:56:28 GMT-0400 (Atlantic Standard Time)",
+              "label": "",
+              "title": "Autism Speaks Canada",
+              "color": "Link",
+              "design": "Default",
+              "center": false,
+              "url": "https://www.autismspeaks.ca/about/about-autism-speaks-canada/",
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ButtonLinkBlock"
+            }
+          ]
+        },
+        {
+          "createdOn": "Fri Jun 19 2020 23:55:57 GMT-0300 (Atlantic Daylight Time)",
+          "title": "Tele-care NB",
+          "blocks": [
+            {
+              "createdOn": "Thu Aug 27 2020 02:31:36 GMT-0300 (Atlantic Daylight Time)",
+              "label": "",
+              "title": "Tele-Care New Brunswick ",
+              "size": "Header 2",
+              "center": false,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "TitleBlock",
+              "subtitle": ""
+            },
+            {
+              "createdOn": "Wed Jan 06 2021 23:25:19 GMT-0400 (Atlantic Standard Time)",
+              "label": "",
+              "content": "<p>Tele-Care is a free, confidential, health advice and information line. Dial 811 for access to bilingual, registered nurses, 24 hours a day, seven days a week. In an emergency, call 911 or visit the local emergency department.</p>",
+              "center": false,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ContentBlock"
+            },
+            {
+              "createdOn": "Wed Jan 06 2021 23:25:19 GMT-0400 (Atlantic Standard Time)",
+              "label": "",
+              "title": "Tele-Care NB",
+              "color": "Link",
+              "design": "Default",
+              "center": false,
+              "url": "https://www2.gnb.ca/content/gnb/en/departments/health/Tele-Care.html",
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ButtonLinkBlock",
+              "outline": false,
+              "block": false
+            }
+          ]
+        },
+        {
+          "createdOn": "Fri Jun 19 2020 23:55:57 GMT-0300 (Atlantic Daylight Time)",
+          "title": "Social Development NB",
+          "blocks": [
+            {
+              "createdOn": "Thu Aug 27 2020 02:31:36 GMT-0300 (Atlantic Daylight Time)",
+              "label": "",
+              "title": "Department of Social Development New Brunswick",
+              "size": "Header 3",
+              "center": false,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "TitleBlock"
+            },
+            {
+              "createdOn": "Wed Jan 06 2021 23:25:19 GMT-0400 (Atlantic Standard Time)",
+              "label": "",
+              "title": "Social Development NB",
+              "color": "Link",
+              "design": "Default",
+              "center": false,
+              "url": "https://www2.gnb.ca/content/gnb/en/departments/social_development.html",
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ButtonLinkBlock"
+            }
+          ]
+        },
+        {
+          "title": "Education NB",
+          "blocks": [
+            {
+              "createdOn": "Wed Jan 06 2021 23:25:19 GMT-0400 (Atlantic Standard Time)",
+              "label": "",
+              "title": "Department of Education New Brunswick",
+              "size": "Header 3",
+              "center": false,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "TitleBlock"
+            },
+            {
+              "createdOn": "Wed Jan 06 2021 23:25:19 GMT-0400 (Atlantic Standard Time)",
+              "label": "",
+              "title": "Education and Early Childhood Development NB",
+              "color": "Link",
+              "design": "Default",
+              "center": false,
+              "url": "https://www2.gnb.ca/content/gnb/en/departments/education.html",
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ButtonLinkBlock"
+            }
+          ]
+        }
+      ],
+      "spaceAbove": "2",
+      "spaceBelow": "2",
+      "_template": "SideTabsBlock"
+    }
+  ]
+}

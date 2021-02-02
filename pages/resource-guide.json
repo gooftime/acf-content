@@ -1,0 +1,65 @@
+{
+  "pageTitle": "Resource Guide",
+  "date": "2020-06-17T10:51:46.910Z",
+  "path": "resource-guide",
+  "headerBlocks": [
+    {
+      "createdOn": "Fri Jun 19 2020 00:35:56 GMT-0300 (Atlantic Daylight Time)",
+      "title": "Resource Guide",
+      "subtitle": "",
+      "heroImage": "/images/carousel/2019-01-15-10-45-33-1200x800.jpg",
+      "posterImage": "/images/resourceguide.png",
+      "_template": "HeroPosterBlock"
+    }
+  ],
+  "contentBlocks": [
+    {
+      "createdOn": "Sun Jun 21 2020 13:56:41 GMT-0300 (Atlantic Daylight Time)",
+      "label": "",
+      "enabled": true,
+      "cols": [
+        {
+          "createdOn": "Sun Jun 21 2020 13:56:41 GMT-0300 (Atlantic Daylight Time)",
+          "label": "",
+          "enabled": true,
+          "size": 8,
+          "blocks": [
+            {
+              "createdOn": "Sun Jun 21 2020 13:56:41 GMT-0300 (Atlantic Daylight Time)",
+              "label": "",
+              "content": "<h4><strong>Guidebook for those who need information and services.</strong></h4><p>We at Autism Connections Fredericton have been hard at work creating a comprehensive Autism Spectrum Disorder Resource Guidebook for those who need information and services. It is still an ongoing process, and we are still making changes and adding to the book itself, but we are happy to finally post this version on our website for all to use.</p><p>This book is a list of useful resources and local services that were carefully considered by professionals on ASD in the area. We hope that it will be of use.</p><p>To download the guide, simply click the image to the right and it will open up a PDF of the entire Guidebook. Then you can download the file itself to your desktop, or just view it here on our website.</p><p>If you have any suggestions for local services and resources that would be of use to parents, guardians, EAs and teachers, please&nbsp;<a href=\"https://autismconnectionsfredericton.herokuapp.com/contacts.html\">contact us</a>&nbsp;here on our website and include all the information you can so we can make this Guidebook a success.</p>",
+              "center": false,
+              "margin": {
+                "mb": "5"
+              },
+              "_template": "ContentBlock"
+            },
+            {
+              "label": "",
+              "createdOn": "Sun Jun 21 2020 13:56:41 GMT-0300 (Atlantic Daylight Time)",
+              "cardLabel": "Download New Resource Guide",
+              "linkLabel": "Download",
+              "file": "files/New Resounce Guide (26.10.2020).pdf",
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "CardDownloadFileBlock"
+            }
+          ],
+          "settings": {
+            "alignContent": "center",
+            "justifyContent": "start"
+          },
+          "_template": "ColumnBlock"
+        }
+      ],
+      "settings": {
+        "spaceAbove": "2",
+        "spaceBelow": "3",
+        "alignContent": "center",
+        "bgColor": "white"
+      },
+      "_template": "ContainerRowBlock"
+    }
+  ]
+}

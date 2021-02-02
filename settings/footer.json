@@ -1,0 +1,60 @@
+{
+  "firstColumn": {
+    "label": "Programs",
+    "links": [
+      {
+        "label": "Tutoring",
+        "link": "/tutoring",
+        "id": "wiwwqnm0r"
+      },
+      {
+        "label": "Camp Marvel",
+        "link": "/camp-marvel",
+        "id": "0en7ac981"
+      },
+      {
+        "label": "Art is a Spectrum",
+        "link": "/art-is-a-spectrum-gallery-2019",
+        "id": "ib7snq7pw"
+      }
+    ]
+  },
+  "secondColumn": {
+    "label": "Resources",
+    "links": [
+      {
+        "label": "Resource Guide",
+        "link": "/resource-guide",
+        "id": "d6tn6fs4a"
+      },
+      {
+        "label": "Lending Library",
+        "link": "/lending-library"
+      },
+      {
+        "label": "Resource Centres",
+        "link": "/resource-centers"
+      }
+    ]
+  },
+  "thirdColumn": {
+    "label": "Help",
+    "links": [
+      {
+        "label": "Helpful Links",
+        "link": "/helpful-links",
+        "id": "qsdwgw056"
+      },
+      {
+        "label": "Financial programs",
+        "link": "/asd-related-programs",
+        "id": "dg06c313e"
+      },
+      {
+        "label": "Membership",
+        "link": "/membership",
+        "id": "4ht1pof8t"
+      }
+    ]
+  }
+}

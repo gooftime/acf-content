@@ -1,0 +1,389 @@
+{
+  "pageTitle": "Fundraising  & Volunteer",
+  "date": "2020-06-12T02:42:24.896Z",
+  "path": "fundraising-volunteer",
+  "headerBlocks": [],
+  "contentBlocks": [
+    {
+      "createdOn": "Fri Jun 12 2020 05:49:12 GMT+0300 (Moscow Standard Time)",
+      "label": "Header Row",
+      "width": 100,
+      "spaceAbove": "2",
+      "spaceBelow": "1",
+      "alignContent": "start",
+      "cols": [
+        {
+          "createdOn": "Fri Jun 12 2020 05:49:12 GMT+0300 (Moscow Standard Time)",
+          "label": "Text Column",
+          "size": 6,
+          "blocks": [
+            {
+              "createdOn": "Fri Jun 12 2020 05:49:12 GMT+0300 (Moscow Standard Time)",
+              "label": "Title",
+              "title": "Fundraising",
+              "size": "Page header",
+              "center": false,
+              "margin": {
+                "mt": "0",
+                "mb": "4",
+                "ml": "0",
+                "mr": "0"
+              },
+              "_template": "TitleBlock"
+            },
+            {
+              "createdOn": "Fri Jun 12 2020 05:49:12 GMT+0300 (Moscow Standard Time)",
+              "label": "Text",
+              "content": "<p>ACF always welcomes initiatives raising awareness and funding in order to provide help for more people with ASD in greater Fredericton area and beyond. Are you interested in hosting a fundraiser for Autism Connections Fredericton? Do you have a special event or fundraising idea that you would like to share with us?</p><p>Please complete the form below and email to acf@nb.aibn.com or go to the contact us page to get in touch.</p>",
+              "center": false,
+              "margin": {
+                "mt": "0",
+                "mb": "4",
+                "ml": "0",
+                "mr": "0"
+              },
+              "_template": "ContentBlock"
+            },
+            {
+              "createdOn": "Fri Jun 12 2020 05:49:12 GMT+0300 (Moscow Standard Time)",
+              "label": "Button",
+              "title": "Contact Us",
+              "color": "Primary",
+              "design": "Wide",
+              "center": false,
+              "url": "contacts",
+              "margin": {
+                "mt": "0",
+                "mb": "5",
+                "ml": "0",
+                "mr": "0"
+              },
+              "_template": "ButtonLinkBlock"
+            }
+          ],
+          "alignContent": "start",
+          "justifyContent": "end",
+          "_template": "ColumnBlock",
+          "enabled": true,
+          "settings": {
+            "justifyContent": "end"
+          }
+        },
+        {
+          "createdOn": "Fri Jun 12 2020 05:49:12 GMT+0300 (Moscow Standard Time)",
+          "label": "Collage Column",
+          "size": 6,
+          "blocks": [
+            {
+              "label": "Gallery collage",
+              "createdOn": "Fri Jun 12 2020 05:49:12 GMT+0300 (Moscow Standard Time)",
+              "images": [
+                {
+                  "label": "Salesgirl Image",
+                  "createdOn": "Fri Jun 12 2020 05:51:41 GMT+0300 (Moscow Standard Time)",
+                  "image": "/images/uploads/fundraiser_9.jpg",
+                  "width": 28,
+                  "topShift": 0,
+                  "leftShift": 15,
+                  "border": "circle",
+                  "shadow": "no",
+                  "zIndex": 0,
+                  "margin": {
+                    "mt": "0",
+                    "mb": "4",
+                    "ml": "0",
+                    "mr": "0"
+                  },
+                  "AOS": {
+                    "enabled": true,
+                    "delay": 100,
+                    "duration": 400,
+                    "animation": "fade-up"
+                  }
+                },
+                {
+                  "label": "Team Image",
+                  "createdOn": "Fri Jun 12 2020 05:51:37 GMT+0300 (Moscow Standard Time)",
+                  "image": "/images/uploads/fundraiser_12.jpg",
+                  "width": 34,
+                  "topShift": -24,
+                  "leftShift": 47,
+                  "border": "circle",
+                  "shadow": "no",
+                  "zIndex": 0,
+                  "margin": {
+                    "mt": "0",
+                    "mb": "4",
+                    "ml": "0",
+                    "mr": "0"
+                  },
+                  "AOS": {
+                    "enabled": true,
+                    "duration": 400,
+                    "delay": 300,
+                    "animation": "fade-up"
+                  }
+                },
+                {
+                  "label": "Store Image",
+                  "createdOn": "Fri Jun 12 2020 06:11:00 GMT+0300 (Moscow Standard Time)",
+                  "image": "/images/uploads/fundraiser_5.jpg",
+                  "width": 38,
+                  "topShift": -6,
+                  "leftShift": 15,
+                  "border": "circle",
+                  "shadow": "no",
+                  "zIndex": 0,
+                  "margin": {
+                    "mt": "0",
+                    "mb": "4",
+                    "ml": "0",
+                    "mr": "0"
+                  },
+                  "AOS": {
+                    "enabled": true,
+                    "delay": 250,
+                    "duration": 400,
+                    "animation": "fade-up"
+                  }
+                },
+                {
+                  "label": "Concert Image",
+                  "createdOn": "Fri Jun 12 2020 05:51:37 GMT+0300 (Moscow Standard Time)",
+                  "image": "/images/uploads/fundraiser_11.jpg",
+                  "width": 44,
+                  "topShift": -30,
+                  "leftShift": 55,
+                  "border": "circle",
+                  "shadow": "large",
+                  "zIndex": 0,
+                  "margin": {
+                    "mt": "0",
+                    "mb": "4",
+                    "ml": "0",
+                    "mr": "0"
+                  },
+                  "AOS": {
+                    "enabled": true,
+                    "delay": 0,
+                    "duration": 700,
+                    "animation": "fade-up"
+                  }
+                }
+              ],
+              "_template": "GalleryCollageBlock"
+            }
+          ],
+          "alignContent": "start",
+          "justifyContent": "start",
+          "_template": "ColumnBlock",
+          "enabled": true
+        }
+      ],
+      "_template": "ContainerRowBlock",
+      "enabled": true,
+      "settings": {
+        "spaceAbove": "2",
+        "spaceBelow": "2"
+      }
+    },
+    {
+      "createdOn": "Fri Jun 12 2020 05:49:12 GMT+0300 (Moscow Standard Time)",
+      "label": "Volunteer Row",
+      "width": 100,
+      "spaceAbove": "2",
+      "spaceBelow": "2",
+      "alignContent": "center",
+      "cols": [
+        {
+          "createdOn": "Fri Jun 12 2020 05:49:12 GMT+0300 (Moscow Standard Time)",
+          "label": "Column",
+          "size": 8,
+          "blocks": [
+            {
+              "createdOn": "Fri Jun 12 2020 05:49:12 GMT+0300 (Moscow Standard Time)",
+              "label": "Title",
+              "title": "Volunteer",
+              "size": "Header 1",
+              "center": true,
+              "margin": {
+                "mt": "0",
+                "mb": "4",
+                "ml": "0",
+                "mr": "0"
+              },
+              "_template": "TitleBlock"
+            },
+            {
+              "createdOn": "Fri Jun 12 2020 05:49:12 GMT+0300 (Moscow Standard Time)",
+              "label": "Text",
+              "content": "<p>Autism Connections Fredericton is always on the look out for volunteers. Our volunteers are the backbone of our organization and are involved in all aspects of the organization from the Board of Directors, to fundraising, helping with special events, daily maintenance, cleaning, and everything in between.</p>",
+              "center": false,
+              "margin": {
+                "mt": "0",
+                "mb": "0",
+                "ml": "0",
+                "mr": "0"
+              },
+              "_template": "ContentBlock"
+            }
+          ],
+          "alignContent": "start",
+          "justifyContent": "start",
+          "_template": "ColumnBlock"
+        }
+      ],
+      "_template": "ContainerRowBlock",
+      "backgroudColor": "light",
+      "id": "volunteer",
+      "enabled": true,
+      "settings": {
+        "spaceAbove": "2",
+        "spaceBelow": "2",
+        "bgColor": "light",
+        "alignContent": "center"
+      }
+    },
+    {
+      "createdOn": "Fri Jun 12 2020 05:49:12 GMT+0300 (Moscow Standard Time)",
+      "label": "Ready",
+      "width": 100,
+      "spaceAbove": "2",
+      "spaceBelow": "3",
+      "alignContent": "center",
+      "cols": [
+        {
+          "createdOn": "Fri Jun 12 2020 05:49:12 GMT+0300 (Moscow Standard Time)",
+          "label": "Left Photo Column",
+          "size": 3,
+          "blocks": [
+            {
+              "label": "Image",
+              "title": "Image",
+              "createdOn": "Fri Jun 12 2020 05:49:12 GMT+0300 (Moscow Standard Time)",
+              "src": "/images/uploads/participate_10_cropped.jpg",
+              "width": 100,
+              "height": 100,
+              "margin": {
+                "mt": "0",
+                "mb": "4",
+                "ml": "0",
+                "mr": "0"
+              },
+              "_template": "ImageBlock",
+              "shadow": "medium",
+              "transform": {
+                "scaleX": 1,
+                "scaleY": 1,
+                "rotate": 25,
+                "skewX": 0,
+                "skewY": 0
+              },
+              "AOS": {
+                "enabled": true,
+                "delay": 0,
+                "duration": 400,
+                "animation": "fade-up"
+              }
+            }
+          ],
+          "alignContent": "start",
+          "justifyContent": "start",
+          "_template": "ColumnBlock",
+          "enabled": true,
+          "settings": {
+            "alignContent": "center",
+            "justifyContent": "start"
+          }
+        },
+        {
+          "createdOn": "Fri Jun 12 2020 05:49:12 GMT+0300 (Moscow Standard Time)",
+          "label": "Text Column",
+          "size": 6,
+          "blocks": [
+            {
+              "createdOn": "Fri Jun 12 2020 05:49:12 GMT+0300 (Moscow Standard Time)",
+              "label": "Title",
+              "title": "Ready to volunteer?",
+              "size": "Header 1",
+              "center": true,
+              "margin": {
+                "mt": "4",
+                "mb": "4",
+                "ml": "0",
+                "mr": "0"
+              },
+              "_template": "TitleBlock",
+              "subtitle": "Please fill out the application below to apply."
+            },
+            {
+              "createdOn": "Fri Jun 12 2020 07:13:19 GMT+0300 (Moscow Standard Time)",
+              "label": "Button",
+              "title": "Download Application Form",
+              "color": "Success",
+              "design": "Wide",
+              "center": true,
+              "url": "#",
+              "margin": {
+                "mb": "5"
+              },
+              "_template": "ButtonLinkBlock",
+              "outline": true,
+              "block": false
+            }
+          ],
+          "alignContent": "start",
+          "justifyContent": "center",
+          "_template": "ColumnBlock"
+        },
+        {
+          "createdOn": "Fri Jun 12 2020 05:49:12 GMT+0300 (Moscow Standard Time)",
+          "label": "Right Photo Column",
+          "size": 3,
+          "blocks": [
+            {
+              "label": "Image",
+              "title": "Image",
+              "createdOn": "Fri Jun 12 2020 05:49:12 GMT+0300 (Moscow Standard Time)",
+              "src": "/images/uploads/tutoring_7_cropped.jpg",
+              "width": 100,
+              "height": 100,
+              "margin": {
+                "mt": "0",
+                "mb": "4",
+                "ml": "0",
+                "mr": "0"
+              },
+              "_template": "ImageBlock",
+              "shadow": "medium",
+              "transform": {
+                "scaleX": 1,
+                "scaleY": 1,
+                "rotate": -15,
+                "skewX": 0,
+                "skewY": 0
+              },
+              "AOS": {
+                "enabled": true,
+                "delay": 0,
+                "duration": 400,
+                "animation": "fade-up"
+              }
+            }
+          ],
+          "alignContent": "start",
+          "justifyContent": "start",
+          "_template": "ColumnBlock",
+          "enabled": true
+        }
+      ],
+      "_template": "ContainerRowBlock",
+      "enabled": true,
+      "settings": {
+        "spaceAbove": "2",
+        "spaceBelow": "2",
+        "alignContent": "center"
+      }
+    }
+  ]
+}

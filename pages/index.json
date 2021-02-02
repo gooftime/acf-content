@@ -1,0 +1,338 @@
+{
+  "carousel": {
+    "slides": [
+      {
+        "createdOn": "Wed Nov 11 2020 21:16:21 GMT-0400 (AST)",
+        "label": "Resource Guide",
+        "enabled": true,
+        "bgImage": "/images/carousel/2019-01-15-10-45-33-1200x800.jpg",
+        "title": "New Resource Guide 2020",
+        "buttonLabel": "Read more",
+        "url": "/resource-guide"
+      },
+      {
+        "createdOn": "Wed Nov 11 2020 21:44:01 GMT-0400 (Atlantic Standard Time)",
+        "label": "Skills Program",
+        "enabled": true,
+        "bgImage": "/images/carousel/skills2.jpeg",
+        "title": "Social Skills Program",
+        "buttonLabel": "Read more",
+        "url": "/social-skills-program-2020"
+      },
+      {
+        "createdOn": "Mon Jun 22 2020 09:42:51 GMT-0300 (Atlantic Daylight Time)",
+        "label": "Ready Willing and Able",
+        "enabled": true,
+        "bgImage": "/images/carousel/Job-Interview-Questions-You-Should-NOT-Answer-Or-Ask-blog-post-image.jpg",
+        "title": "Ready Willing and Able",
+        "buttonLabel": "Read more",
+        "url": "/asd-related-programs"
+      },
+      {
+        "createdOn": "Sun Jan 03 2021 13:06:58 GMT-0400 (Atlantic Standard Time)",
+        "label": "Tutoring",
+        "enabled": true,
+        "bgImage": "/images/carousel/pexels-photo-3985026.jpeg",
+        "title": "Tutoring Program",
+        "buttonLabel": "Read more",
+        "url": "/tutoring"
+      },
+      {
+        "createdOn": "Sun Jan 03 2021 13:07:22 GMT-0400 (Atlantic Standard Time)",
+        "label": "Library",
+        "enabled": true,
+        "bgImage": "/images/carousel/library.jpg",
+        "title": "Lending Library",
+        "buttonLabel": "Read more",
+        "url": "/lending-library"
+      },
+      {
+        "createdOn": "Sun Jan 03 2021 13:07:42 GMT-0400 (Atlantic Standard Time)",
+        "label": "HRSA",
+        "enabled": true,
+        "bgImage": "/images/carousel/Webp.net-resizeimage.jpg",
+        "title": "Healthy Relationships, Sexuality and Autism",
+        "buttonLabel": "Read more",
+        "url": "/healthy-relationships-sexuality-and-autism"
+      },
+      {
+        "createdOn": "Wed Jun 10 2020 07:03:14 GMT+0300 (Moscow Standard Time)",
+        "label": "Camp marvel",
+        "enabled": true,
+        "bgImage": "/images/carousel/volunteer.jpg",
+        "title": "We invite you to the new Camp Marvel season",
+        "buttonLabel": "Read more",
+        "url": "/camp-marvel"
+      }
+    ],
+    "label": "test"
+  },
+  "contentBlocks": [
+    {
+      "createdOn": "Wed Jun 10 2020 02:16:00 GMT+0300 (Moscow Standard Time)",
+      "label": "Alert",
+      "width": 100,
+      "spaceAbove": "2",
+      "spaceBelow": "1",
+      "alignContent": "center",
+      "cols": [
+        {
+          "createdOn": "Wed Jun 10 2020 02:16:00 GMT+0300 (Moscow Standard Time)",
+          "label": "12",
+          "size": 12,
+          "blocks": [
+            {
+              "createdOn": "Wed Jun 10 2020 02:16:00 GMT+0300 (Moscow Standard Time)",
+              "label": "Alert",
+              "title": "Public statement from ACF regarding COVID-19 outbreak.",
+              "message": "<p>Autism Connections Fredericton would like to acknowledge the urgency of prioritizing the health and safety of all our member families, individuals and service providers as well as the wider community and beyond during this public health emergency. In following with our operating policy we will remain closed while the public schools are interrupted and we will cancel all scheduled in-person programming and events for the following two weeks (March 16 -April 3rd). We will reassess the closure after this time. Regular updates will be available here and on our Facebook Page.</p>",
+              "variant": "Warning",
+              "light": true,
+              "_template": "AlertBlock"
+            }
+          ],
+          "_template": "ColumnBlock",
+          "enabled": true
+        }
+      ],
+      "_template": "ContainerRowBlock",
+      "enabled": true,
+      "settings": {
+        "spaceAbove": "2",
+        "spaceBelow": "0",
+        "alignContent": "center"
+      }
+    },
+    {
+      "createdOn": "Sat Jun 13 2020 08:36:10 GMT+0300 (Moscow Standard Time)",
+      "label": "New Here Row",
+      "width": 100,
+      "spaceAbove": "2",
+      "spaceBelow": "2",
+      "alignContent": "center",
+      "cols": [
+        {
+          "createdOn": "Sat Jun 13 2020 08:36:10 GMT+0300 (Moscow Standard Time)",
+          "label": "Title Column",
+          "size": 12,
+          "blocks": [
+            {
+              "createdOn": "Sat Jun 13 2020 08:36:10 GMT+0300 (Moscow Standard Time)",
+              "label": "Title",
+              "title": "New Here?",
+              "size": "Header 1",
+              "center": true,
+              "margin": {
+                "mb": "5"
+              },
+              "_template": "TitleBlock",
+              "subtitle": "Don’t worry, you will not get lost."
+            }
+          ],
+          "alignContent": "center",
+          "justifyContent": "start",
+          "_template": "ColumnBlock"
+        },
+        {
+          "createdOn": "Sat Jun 13 2020 08:36:10 GMT+0300 (Moscow Standard Time)",
+          "label": "Membership Column",
+          "size": 4,
+          "blocks": [
+            {
+              "createdOn": "Sat Jun 13 2020 08:36:10 GMT+0300 (Moscow Standard Time)",
+              "label": "Colored box",
+              "title": "Free Membership",
+              "description": "<p>Membership is FREE! Anyone who supports individuals with an ASD or is looking for more information about autism are welcome to become a member of our <strong>centre</strong>.</p>",
+              "linkLabel": "Join community",
+              "linkUrl": "/membership",
+              "color": "primary",
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ColoredBoxBlock"
+            }
+          ],
+          "alignContent": "center",
+          "justifyContent": "start",
+          "_template": "ColumnBlock",
+          "enabled": true
+        },
+        {
+          "createdOn": "Sat Jun 13 2020 08:36:10 GMT+0300 (Moscow Standard Time)",
+          "label": "Guide Column",
+          "size": 4,
+          "blocks": [
+            {
+              "createdOn": "Sat Jun 13 2020 08:36:10 GMT+0300 (Moscow Standard Time)",
+              "label": "Colored box",
+              "title": "Resource guide",
+              "description": "<p>We have created a comprehensive Guidebook with a list of useful resources and local services carefully considered by professionals on ASD in the area.</p><p><em><strong>It is free to download.</strong></em></p>",
+              "linkLabel": "Learn more",
+              "linkUrl": "/resource-guide",
+              "color": "warning",
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ColoredBoxBlock"
+            }
+          ],
+          "alignContent": "center",
+          "justifyContent": "start",
+          "_template": "ColumnBlock"
+        },
+        {
+          "createdOn": "Sat Jun 13 2020 08:36:10 GMT+0300 (Moscow Standard Time)",
+          "label": "Volunteering Column",
+          "size": 4,
+          "blocks": [
+            {
+              "createdOn": "Sat Jun 13 2020 08:47:04 GMT+0300 (Moscow Standard Time)",
+              "label": "Colored box",
+              "title": "Volunteering",
+              "description": "<p>We are very thankful to those willing to volunteer and help our organization. Our volunteers are involved in all aspects of ACF from helping with special events to daily maintenance. Click on the link below to apply.</p>",
+              "linkLabel": "View opportunities",
+              "linkUrl": "/fundraising-volunteer#volunteer",
+              "color": "info",
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ColoredBoxBlock"
+            }
+          ],
+          "alignContent": "center",
+          "justifyContent": "start",
+          "_template": "ColumnBlock"
+        }
+      ],
+      "_template": "ContainerRowBlock",
+      "enabled": true,
+      "settings": {
+        "spaceAbove": "2",
+        "spaceBelow": "3"
+      }
+    },
+    {
+      "createdOn": "Wed Jun 10 2020 02:13:21 GMT+0300 (Moscow Standard Time)",
+      "label": "What we do Row",
+      "width": 100,
+      "spaceAbove": "2",
+      "spaceBelow": "2",
+      "alignContent": "center",
+      "cols": [
+        {
+          "createdOn": "Wed Jun 10 2020 02:13:21 GMT+0300 (Moscow Standard Time)",
+          "label": "Column",
+          "size": 8,
+          "blocks": [
+            {
+              "createdOn": "Wed Jun 10 2020 02:13:21 GMT+0300 (Moscow Standard Time)",
+              "label": "Title",
+              "title": "What we do",
+              "size": "Header 1",
+              "center": true,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "TitleBlock",
+              "subtitle": "Our main areas of focus"
+            },
+            {
+              "createdOn": "Wed Jun 10 2020 02:13:21 GMT+0300 (Moscow Standard Time)",
+              "label": "Text",
+              "content": "<p>We provide support for persons with an autism-spectrum disorders, their families, and their communities in the greater Fredericton region. ACF provides assistance in a form of public education, social support, advocacy, material resources, special programs and activities, and evidenced-based information. We offer on-site resources, one-on-one tutoring for students with ASD, organize special events and activities and recreational. ACF also educates on such relevant topics as disability tax credit and federal and provincial programs for persons with ASD.</p>",
+              "center": false,
+              "_template": "ContentBlock"
+            }
+          ],
+          "_template": "ColumnBlock"
+        }
+      ],
+      "_template": "ContainerRowBlock",
+      "backgroudColor": "light",
+      "enabled": true,
+      "settings": {
+        "alignContent": "center",
+        "bgColor": "light",
+        "spaceAbove": "2",
+        "spaceBelow": "2"
+      }
+    },
+    {
+      "createdOn": "Sat Jun 13 2020 08:31:23 GMT+0300 (Moscow Standard Time)",
+      "label": "Latest posts",
+      "backgroudColor": "white",
+      "spaceAbove": "1",
+      "spaceBelow": "1",
+      "_template": "LatestPostsBlock",
+      "title": {
+        "label": "Title",
+        "title": "Our Latest News",
+        "subtitle": "Find out what we have going.",
+        "center": true,
+        "size": "Header 1"
+      }
+    },
+    {
+      "createdOn": "Wed Jan 20 2021 14:15:45 GMT-0400 (Atlantic Standard Time)",
+      "label": "Celebrating the Community",
+      "enabled": true,
+      "cols": [
+        {
+          "createdOn": "Thu Jan 21 2021 09:18:56 GMT-0400 (Atlantic Standard Time)",
+          "label": "",
+          "enabled": true,
+          "size": 12,
+          "blocks": [
+            {
+              "createdOn": "Thu Jan 21 2021 09:18:56 GMT-0400 (Atlantic Standard Time)",
+              "label": "",
+              "content": "<p></p>",
+              "center": false,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ContentBlock"
+            }
+          ],
+          "settings": {
+            "alignContent": "center",
+            "justifyContent": "start"
+          },
+          "_template": "ColumnBlock"
+        },
+        {
+          "createdOn": "Thu Jan 21 2021 09:15:49 GMT-0400 (Atlantic Standard Time)",
+          "label": "title",
+          "enabled": true,
+          "size": 12,
+          "blocks": [
+            {
+              "createdOn": "Thu Jan 21 2021 09:15:49 GMT-0400 (Atlantic Standard Time)",
+              "label": "",
+              "title": "Celebrating the Community",
+              "size": "Header 1",
+              "center": true,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "TitleBlock"
+            }
+          ],
+          "settings": {
+            "alignContent": "center",
+            "justifyContent": "start"
+          },
+          "_template": "ColumnBlock"
+        }
+      ],
+      "settings": {
+        "spaceAbove": "2",
+        "spaceBelow": "2",
+        "alignContent": "center",
+        "bgColor": "white"
+      },
+      "_template": "ContainerRowBlock"
+    }
+  ],
+  "pageTitle": "Home"
+}

@@ -1,0 +1,91 @@
+{
+  "pageTitle": "Tutoring",
+  "date": "2020-06-22T02:06:36.725Z",
+  "path": "tutoring",
+  "headerBlocks": [
+    {
+      "createdOn": "Sun Jun 21 2020 23:06:37 GMT-0300 (Atlantic Daylight Time)",
+      "title": "Tutoring",
+      "subtitle": "One-On-One Tutoring for Autistic Students",
+      "heroImage": "/images/tutoring_1.jpg",
+      "posterImage": "/images/tutoring-poster.png",
+      "_template": "HeroPosterBlock"
+    }
+  ],
+  "contentBlocks": [
+    {
+      "createdOn": "Sun Jun 21 2020 23:06:37 GMT-0300 (Atlantic Daylight Time)",
+      "label": "Main",
+      "enabled": true,
+      "cols": [
+        {
+          "createdOn": "Tue Jan 19 2021 14:17:00 GMT-0400 (Atlantic Standard Time)",
+          "label": "",
+          "enabled": true,
+          "size": 12,
+          "blocks": [],
+          "settings": {
+            "alignContent": "center",
+            "justifyContent": "start"
+          },
+          "_template": "ColumnBlock"
+        },
+        {
+          "createdOn": "Sun Jun 21 2020 23:06:37 GMT-0300 (Atlantic Daylight Time)",
+          "label": "",
+          "enabled": true,
+          "size": 8,
+          "blocks": [
+            {
+              "createdOn": "Tue Jan 19 2021 14:17:00 GMT-0400 (Atlantic Standard Time)",
+              "label": "",
+              "title": "UPDATE",
+              "message": "<p>This program is currently on hold because of COVID-19</p>",
+              "variant": "Primary",
+              "light": false,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "AlertBlock"
+            },
+            {
+              "createdOn": "Sun Jun 21 2020 23:06:37 GMT-0300 (Atlantic Daylight Time)",
+              "label": "",
+              "content": "<h4><strong>One-On-One Tutoring for Autistic Students</strong></h4><p>Autism Connection Fredericton has just completed their first term of our new inclusive tutoring program! The program was very successful and received many positive reviews from parents, students, and teachers. We will begin our second term of tutoring on January 6th, 2019. Tutoring availability is currently limited to Monday and Fridays after school but will expand mid January.</p><h4 class=\"mt-5\"><strong>Tutoring Subjects</strong></h4><p>Sessions may be academic in nature, or focus on providing behavioral support to children that require redirection while completing schoolwork. We will also provide tutoring focused on organization (such as agenda organization and weekly planning for assignments) for older students, test preparation (reviewing materials), and life skills (such as cooking). Lessons will focus on homework help or specific materials provided by the parents.</p><p>Tutors will receive autism specific training from the clinical members of our board and be supervised by a certified teacher. An effort will be made to hire bilingual tutors. An in-take process will be conducted to assess the child’s needs and determine program suitability.</p><h4 class=\"mt-5\"><strong>Program Details</strong></h4><p>Start Date: Monday, January 6th, 2019<br>Hourly Rate: $25.00, for 1-2-hour session (breaks included)<br>Minimum booking: one month (1 session per week for 4 weeks)</p><h4 class=\"mt-5\"><strong>Tutoring availability</strong></h4><p><em>Mondays: 3 - 7 PM<br>Fridays: 3 - 7 PM<br></em>Bookings are subject to tutor availability so please register early</p><p>To register a child for this program, please fill out the following form or&nbsp;contact us.<br></p>",
+              "center": false,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ContentBlock"
+            },
+            {
+              "createdOn": "Sun Jun 21 2020 23:06:37 GMT-0300 (Atlantic Daylight Time)",
+              "label": "",
+              "title": "Registration form",
+              "color": "Primary",
+              "design": "Wide",
+              "center": true,
+              "url": "https://docs.google.com/forms/d/e/1FAIpQLSdeD8hVElTDiWPuiObvJL0W2lr1qsSy8-fDMJ0Lcksu4Qew3Q/viewform?usp=sf_link",
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ButtonLinkBlock"
+            }
+          ],
+          "settings": {
+            "alignContent": "center",
+            "justifyContent": "start"
+          },
+          "_template": "ColumnBlock"
+        }
+      ],
+      "settings": {
+        "spaceAbove": "2",
+        "spaceBelow": "2",
+        "alignContent": "center",
+        "bgColor": "white"
+      },
+      "_template": "ContainerRowBlock"
+    }
+  ]
+}

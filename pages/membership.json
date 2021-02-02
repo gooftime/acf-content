@@ -1,0 +1,70 @@
+{
+  "path": "membership",
+  "label": "Membership test commit",
+  "headerBlocks": [
+    {
+      "id": "nqi5y8zq6",
+      "title": "Membership",
+      "subtitle": "Join our community today!",
+      "spaceAbove": "2",
+      "spaceBelow": "0",
+      "_template": "HeroSimpleBlock"
+    }
+  ],
+  "contentBlocks": [
+    {
+      "id": "gy3q97pse",
+      "label": "Main",
+      "width": 100,
+      "spaceAbove": "1",
+      "spaceBelow": "1",
+      "cols": [
+        {
+          "id": "p64nlcci6",
+          "label": "",
+          "size": 8,
+          "blocks": [
+            {
+              "createdOn": "Fri Jun 05 2020 22:43:46 GMT+0300 (Moscow Standard Time)",
+              "label": "Main text",
+              "content": "<p>Memberships to Autism Connections Fredericton (ACF) are&nbsp;<em><strong>FREE!</strong></em>&nbsp;Family members and community organizations/businesses who support individuals with ASD are welcome to become a member of our centre.</p><p>By becoming a member of ACF, you will receive full access to our resource library and upcoming events. You will receive e-mails for new programming via our mailing list, as well as our monthly newsletter that keeps you up to date with everything going on with the centre.</p><p>Complete the membership form and return it to the centre to register.</p>",
+              "center": false,
+              "_template": "ContentBlock",
+              "margin": {
+                "mb": "5"
+              }
+            },
+            {
+              "label": "",
+              "createdOn": "Fri Jun 19 2020 20:37:02 GMT-0300 (Atlantic Daylight Time)",
+              "cardLabel": "New Membership Form (pdf)",
+              "linkLabel": "Download Form",
+              "file": "/files/Membership_Form.pdf",
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "CardDownloadFileBlock"
+            }
+          ],
+          "_template": "ColumnBlock",
+          "enabled": true,
+          "settings": {
+            "justifyContent": "start",
+            "alignContent": "center"
+          }
+        }
+      ],
+      "_template": "ContainerRowBlock",
+      "alignContent": "center",
+      "backgroudColor": "white",
+      "enabled": true,
+      "settings": {
+        "spaceAbove": "1",
+        "spaceBelow": "3",
+        "alignContent": "center",
+        "bgColor": "white"
+      }
+    }
+  ],
+  "pageTitle": "Membership"
+}

@@ -1,0 +1,231 @@
+{
+  "pageTitle": "Renting the centre",
+  "date": "2020-06-12T00:35:58.334Z",
+  "path": "renting-the-centre",
+  "headerBlocks": [
+    {
+      "createdOn": "Fri Jun 12 2020 03:36:00 GMT+0300 (Moscow Standard Time)",
+      "title": "Renting the centre",
+      "subtitle": "",
+      "spaceAbove": "3",
+      "spaceBelow": "1",
+      "_template": "HeroSimpleBlock"
+    }
+  ],
+  "contentBlocks": [
+    {
+      "createdOn": "Fri Jun 12 2020 03:36:00 GMT+0300 (Moscow Standard Time)",
+      "label": "Description text and File card",
+      "width": 100,
+      "spaceAbove": "1",
+      "spaceBelow": "1",
+      "alignContent": "center",
+      "cols": [
+        {
+          "createdOn": "Fri Jun 12 2020 03:36:00 GMT+0300 (Moscow Standard Time)",
+          "label": "Text Column",
+          "size": 8,
+          "blocks": [
+            {
+              "createdOn": "Fri Jun 12 2020 03:36:00 GMT+0300 (Moscow Standard Time)",
+              "label": "Text",
+              "content": "<p>Our space at Lincoln road is available for rent! If you have a special program, service or event in mind that you would like to offer and need a location to use, please take a look at our rental agreement for more information.</p><p>Once you fill out the form, send it to us by e-mail, by mail or drop it off at our centre. Feel free to contact us to get additional information.</p>",
+              "center": false,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ContentBlock"
+            }
+          ],
+          "alignContent": "start",
+          "justifyContent": "start",
+          "_template": "ColumnBlock"
+        },
+        {
+          "createdOn": "Fri Jun 12 2020 03:36:00 GMT+0300 (Moscow Standard Time)",
+          "label": "Download Card Column",
+          "size": 8,
+          "blocks": [
+            {
+              "label": "Card (download file)",
+              "createdOn": "Fri Jun 12 2020 03:36:00 GMT+0300 (Moscow Standard Time)",
+              "cardLabel": "Rental Agreement 2020",
+              "linkLabel": "Download Agreement",
+              "file": "/files/Rental Agreement 2020.docx",
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "CardDownloadFileBlock"
+            }
+          ],
+          "alignContent": "start",
+          "justifyContent": "start",
+          "_template": "ColumnBlock",
+          "enabled": true
+        }
+      ],
+      "_template": "ContainerRowBlock",
+      "enabled": true,
+      "settings": {
+        "alignContent": "center",
+        "spaceAbove": "1",
+        "spaceBelow": "2"
+      }
+    },
+    {
+      "createdOn": "Fri Jun 12 2020 03:36:00 GMT+0300 (Moscow Standard Time)",
+      "label": "Divider",
+      "spaceAbove": "0",
+      "spaceBelow": "0",
+      "_template": "HrBlock"
+    },
+    {
+      "createdOn": "Fri Jun 12 2020 03:36:00 GMT+0300 (Moscow Standard Time)",
+      "label": "Row",
+      "width": 100,
+      "spaceAbove": "2",
+      "spaceBelow": "3",
+      "alignContent": "start",
+      "cols": [
+        {
+          "createdOn": "Fri Jun 12 2020 03:36:00 GMT+0300 (Moscow Standard Time)",
+          "label": "Title Column",
+          "size": 12,
+          "blocks": [
+            {
+              "createdOn": "Fri Jun 12 2020 03:36:00 GMT+0300 (Moscow Standard Time)",
+              "label": "Title",
+              "title": "Photos and descriptions",
+              "size": "Header 1",
+              "center": true,
+              "margin": {
+                "mb": "5"
+              },
+              "_template": "TitleBlock"
+            }
+          ],
+          "alignContent": "start",
+          "justifyContent": "start",
+          "_template": "ColumnBlock"
+        },
+        {
+          "createdOn": "Fri Jun 12 2020 03:36:00 GMT+0300 (Moscow Standard Time)",
+          "label": "Front Column",
+          "size": 4,
+          "blocks": [
+            {
+              "createdOn": "Fri Jun 12 2020 03:36:00 GMT+0300 (Moscow Standard Time)",
+              "label": "Card",
+              "title": "Front of the centre",
+              "description": "We share the Lincoln Plaza parking lot with the other services here.",
+              "image": "/images/uploads/rental-1.png",
+              "url": "",
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "PhotoCardBlock"
+            }
+          ],
+          "alignContent": "start",
+          "justifyContent": "start",
+          "_template": "ColumnBlock"
+        },
+        {
+          "createdOn": "Fri Jun 12 2020 03:36:00 GMT+0300 (Moscow Standard Time)",
+          "label": "Play Room Column",
+          "size": 4,
+          "blocks": [
+            {
+              "createdOn": "Fri Jun 12 2020 03:36:00 GMT+0300 (Moscow Standard Time)",
+              "label": "Card",
+              "title": "Play Room",
+              "description": "The room at the front of the building and our play area.",
+              "image": "/images/uploads/rental-2.png",
+              "url": "",
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "PhotoCardBlock"
+            }
+          ],
+          "alignContent": "start",
+          "justifyContent": "start",
+          "_template": "ColumnBlock"
+        },
+        {
+          "createdOn": "Fri Jun 12 2020 03:36:00 GMT+0300 (Moscow Standard Time)",
+          "label": "Kitchen Column",
+          "size": 4,
+          "blocks": [
+            {
+              "createdOn": "Fri Jun 12 2020 03:36:00 GMT+0300 (Moscow Standard Time)",
+              "label": "Card",
+              "title": "Kitchen",
+              "description": "Our kitchen, with sink and appliances.",
+              "image": "/images/uploads/rental-3.png",
+              "url": "",
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "PhotoCardBlock"
+            }
+          ],
+          "alignContent": "start",
+          "justifyContent": "start",
+          "_template": "ColumnBlock"
+        },
+        {
+          "createdOn": "Fri Jun 12 2020 03:36:00 GMT+0300 (Moscow Standard Time)",
+          "label": "Cameron's Room Column",
+          "size": 6,
+          "blocks": [
+            {
+              "createdOn": "Fri Jun 12 2020 03:36:00 GMT+0300 (Moscow Standard Time)",
+              "label": "Card",
+              "title": "Cameron's Room",
+              "description": "The largest room in the building, Cameron's Room is individually available for rent.",
+              "image": "/images/uploads/rental-4.png",
+              "url": "",
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "PhotoCardBlock"
+            }
+          ],
+          "alignContent": "start",
+          "justifyContent": "start",
+          "_template": "ColumnBlock"
+        },
+        {
+          "createdOn": "Fri Jun 12 2020 03:36:00 GMT+0300 (Moscow Standard Time)",
+          "label": "Board Game Column",
+          "size": 6,
+          "blocks": [
+            {
+              "createdOn": "Fri Jun 12 2020 03:36:00 GMT+0300 (Moscow Standard Time)",
+              "label": "Card",
+              "title": "Board Game",
+              "description": "Our boardroom, perfect for meetings. It is available individually for rent.",
+              "image": "/images/uploads/rental-5.png",
+              "url": "",
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "PhotoCardBlock"
+            }
+          ],
+          "alignContent": "start",
+          "justifyContent": "start",
+          "_template": "ColumnBlock"
+        }
+      ],
+      "_template": "ContainerRowBlock",
+      "enabled": true,
+      "settings": {
+        "alignContent": "center",
+        "spaceAbove": "2",
+        "spaceBelow": "3"
+      }
+    }
+  ]
+}

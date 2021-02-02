@@ -1,0 +1,183 @@
+{
+  "pageTitle": "Art is a Spectrum Gallery 2019",
+  "date": "2020-06-19T04:24:52.268Z",
+  "path": "art-is-a-spectrum-gallery-2019",
+  "headerBlocks": [
+    {
+      "createdOn": "Fri Jun 19 2020 01:25:05 GMT-0300 (Atlantic Daylight Time)",
+      "title": "Art is a Spectrum Gallery - 2019",
+      "subtitle": "We are waiting for you to visit.",
+      "spaceAbove": "3",
+      "spaceBelow": "1",
+      "_template": "HeroSimpleBlock"
+    }
+  ],
+  "contentBlocks": [
+    {
+      "createdOn": "Mon Jun 22 2020 20:29:03 GMT-0300 (ADT)",
+      "label": "",
+      "spaceAbove": "0",
+      "spaceBelow": "0",
+      "_template": "HrBlock"
+    },
+    {
+      "createdOn": "Mon Jun 22 2020 20:29:03 GMT-0300 (ADT)",
+      "label": "",
+      "enabled": true,
+      "cols": [
+        {
+          "createdOn": "Mon Jun 22 2020 20:29:03 GMT-0300 (ADT)",
+          "label": "",
+          "enabled": true,
+          "size": 6,
+          "blocks": [
+            {
+              "createdOn": "Mon Jun 22 2020 20:29:03 GMT-0300 (ADT)",
+              "label": "",
+              "content": "<p><em><strong>Artist: Emma McKinney, 22 years</strong></em></p><p><em>Authors description: I’ve been creating since I was young. I enjoy painting with water colour and acrylics. The pieces I picked for the gallery show all include texture because I like the feel the different materials create. They can be touched.&nbsp;</em></p>",
+              "center": true,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ContentBlock"
+            },
+            {
+              "createdOn": "Mon Jun 22 2020 20:29:03 GMT-0300 (ADT)",
+              "label": "",
+              "title": "Image",
+              "src": "/images/uploads/Screenshot 2020-05-12 at 16.07.06.png",
+              "width": 100,
+              "height": 100,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ImageBlock",
+              "shadow": "large"
+            }
+          ],
+          "settings": {
+            "alignContent": "center",
+            "justifyContent": "start"
+          },
+          "_template": "ColumnBlock"
+        },
+        {
+          "createdOn": "Mon Jun 22 2020 20:29:03 GMT-0300 (ADT)",
+          "label": "",
+          "enabled": true,
+          "size": 6,
+          "blocks": [
+            {
+              "createdOn": "Mon Jun 22 2020 20:29:03 GMT-0300 (ADT)",
+              "label": "",
+              "title": "Image",
+              "src": "/images/uploads/Emma McKinney.png",
+              "width": 100,
+              "height": 100,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ImageBlock",
+              "shadow": "large"
+            },
+            {
+              "createdOn": "Mon Jun 22 2020 20:29:03 GMT-0300 (ADT)",
+              "label": "",
+              "title": "Image",
+              "src": "/images/uploads/Gary O'Donnell.png",
+              "width": 100,
+              "height": 100,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ImageBlock",
+              "shadow": "large"
+            }
+          ],
+          "settings": {
+            "alignContent": "center",
+            "justifyContent": "start"
+          },
+          "_template": "ColumnBlock"
+        }
+      ],
+      "settings": {
+        "spaceAbove": "2",
+        "spaceBelow": "2",
+        "alignContent": "center",
+        "bgColor": "white"
+      },
+      "_template": "ContainerRowBlock"
+    },
+    {
+      "createdOn": "Mon Jun 22 2020 20:29:03 GMT-0300 (ADT)",
+      "label": "",
+      "spaceAbove": "0",
+      "spaceBelow": "0",
+      "_template": "HrBlock"
+    },
+    {
+      "createdOn": "Mon Jun 22 2020 20:29:03 GMT-0300 (ADT)",
+      "label": "",
+      "enabled": true,
+      "cols": [
+        {
+          "createdOn": "Mon Jun 22 2020 20:29:03 GMT-0300 (ADT)",
+          "label": "",
+          "enabled": true,
+          "size": 6,
+          "blocks": [
+            {
+              "createdOn": "Mon Jun 22 2020 20:29:03 GMT-0300 (ADT)",
+              "label": "",
+              "content": "<p><em><strong>Artist: Julie Goguen, 26 years old</strong></em></p><p><em>“Art was always ingrained in me — it is who I am. There was a period of time where I had stopped but now, I’m back at it again. I don’t necessarily do art with meaning — I do art on images that I want to bring to life”</em></p>",
+              "center": true,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ContentBlock"
+            }
+          ],
+          "settings": {
+            "alignContent": "center",
+            "justifyContent": "start"
+          },
+          "_template": "ColumnBlock"
+        },
+        {
+          "createdOn": "Mon Jun 22 2020 20:29:03 GMT-0300 (ADT)",
+          "label": "",
+          "enabled": true,
+          "size": 6,
+          "blocks": [
+            {
+              "createdOn": "Mon Jun 22 2020 20:29:03 GMT-0300 (ADT)",
+              "label": "",
+              "title": "Image",
+              "src": "/images/uploads/Jukie Goguen.JPG",
+              "width": 70,
+              "height": 70,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ImageBlock",
+              "shadow": "large"
+            }
+          ],
+          "settings": {
+            "alignContent": "center",
+            "justifyContent": "start"
+          },
+          "_template": "ColumnBlock"
+        }
+      ],
+      "settings": {
+        "spaceAbove": "2",
+        "spaceBelow": "2",
+        "alignContent": "center",
+        "bgColor": "white"
+      },
+      "_template": "ContainerRowBlock"
+    }
+  ]
+}

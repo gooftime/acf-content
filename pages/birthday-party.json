@@ -1,0 +1,191 @@
+{
+  "pageTitle": "Birthday Party",
+  "date": "2020-06-11T23:50:39.889Z",
+  "path": "birthday-party",
+  "headerBlocks": [],
+  "contentBlocks": [
+    {
+      "createdOn": "Fri Jun 12 2020 02:50:41 GMT+0300 (Moscow Standard Time)",
+      "label": "Description and gallery",
+      "width": 100,
+      "spaceAbove": "3",
+      "spaceBelow": "1",
+      "alignContent": "between",
+      "cols": [
+        {
+          "createdOn": "Fri Jun 12 2020 02:50:41 GMT+0300 (Moscow Standard Time)",
+          "label": "Text Column",
+          "size": 6,
+          "blocks": [
+            {
+              "createdOn": "Fri Jun 12 2020 02:50:41 GMT+0300 (Moscow Standard Time)",
+              "label": "Title",
+              "title": "Host your next birthday party here!",
+              "size": "Page header",
+              "center": false,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "TitleBlock"
+            },
+            {
+              "createdOn": "Fri Jun 12 2020 02:50:41 GMT+0300 (Moscow Standard Time)",
+              "label": "Text",
+              "content": "<p>Planning a birthday party for a child is difficult. It is important to pick the right venue, themed for celebration. Autism Connections Fredericton offers Birthday Party Rentals at our facility on Lincoln Road. We will help you host prepare and host the party with consideration of all possible special requirements.</p><p>Let your kid enjoy your special day with friends and family in a friendly environment with lots of toys, books and games!</p>",
+              "center": false,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ContentBlock"
+            }
+          ],
+          "alignContent": "start",
+          "justifyContent": "center",
+          "_template": "ColumnBlock",
+          "enabled": true,
+          "settings": {
+            "justifyContent": "center"
+          }
+        },
+        {
+          "createdOn": "Fri Jun 12 2020 02:50:41 GMT+0300 (Moscow Standard Time)",
+          "label": "Collage Column",
+          "size": 6,
+          "blocks": [
+            {
+              "label": "Gallery collage",
+              "createdOn": "Fri Jun 12 2020 03:15:54 GMT+0300 (Moscow Standard Time)",
+              "images": [
+                {
+                  "label": "Cake",
+                  "createdOn": "Fri Jun 12 2020 03:16:15 GMT+0300 (Moscow Standard Time)",
+                  "image": "/images/uploads/bday_4.jpg",
+                  "width": 35,
+                  "topShift": 0,
+                  "leftShift": 65,
+                  "border": "white",
+                  "shadow": "no",
+                  "margin": {
+                    "mb": "4"
+                  },
+                  "zIndex": 2
+                },
+                {
+                  "label": "Tutor",
+                  "createdOn": "Fri Jun 12 2020 03:16:15 GMT+0300 (Moscow Standard Time)",
+                  "image": "/images/uploads/bday_3.jpeg",
+                  "width": 35,
+                  "topShift": -20,
+                  "leftShift": 5,
+                  "border": "white",
+                  "shadow": "no",
+                  "margin": {
+                    "mb": "4"
+                  },
+                  "zIndex": 2
+                },
+                {
+                  "label": "Main Girl",
+                  "createdOn": "Fri Jun 12 2020 03:16:17 GMT+0300 (Moscow Standard Time)",
+                  "image": "/images/uploads/fake_1.jpg",
+                  "width": 80,
+                  "topShift": -13,
+                  "leftShift": 10,
+                  "border": "white",
+                  "shadow": "large",
+                  "margin": {
+                    "mb": "4"
+                  },
+                  "zIndex": 1
+                },
+                {
+                  "label": "Rex",
+                  "createdOn": "Fri Jun 12 2020 03:16:13 GMT+0300 (Moscow Standard Time)",
+                  "image": "/images/uploads/bday_6.jpg",
+                  "width": 27,
+                  "topShift": -10,
+                  "leftShift": 4,
+                  "border": "white",
+                  "shadow": "no",
+                  "margin": {
+                    "mt": "0",
+                    "mb": "4",
+                    "ml": "0",
+                    "mr": "0"
+                  },
+                  "zIndex": 1
+                },
+                {
+                  "label": "Artist",
+                  "createdOn": "Fri Jun 12 2020 03:25:46 GMT+0300 (Moscow Standard Time)",
+                  "image": "/images/uploads/bday_5.jpg",
+                  "width": 50,
+                  "topShift": -40,
+                  "leftShift": 47,
+                  "border": "white",
+                  "shadow": "no",
+                  "zIndex": 0,
+                  "margin": {
+                    "mt": "0",
+                    "mb": "4",
+                    "ml": "0",
+                    "mr": "0"
+                  }
+                }
+              ],
+              "_template": "GalleryCollageBlock"
+            }
+          ],
+          "alignContent": "start",
+          "justifyContent": "start",
+          "_template": "ColumnBlock"
+        }
+      ],
+      "_template": "ContainerRowBlock",
+      "enabled": true,
+      "settings": {
+        "spaceAbove": "3",
+        "spaceBelow": "2"
+      }
+    },
+    {
+      "createdOn": "Fri Jun 12 2020 02:50:41 GMT+0300 (Moscow Standard Time)",
+      "label": "Blockquote",
+      "width": 100,
+      "spaceAbove": "2",
+      "spaceBelow": "3",
+      "alignContent": "start",
+      "cols": [
+        {
+          "createdOn": "Fri Jun 12 2020 02:50:41 GMT+0300 (Moscow Standard Time)",
+          "label": "Column",
+          "size": 12,
+          "blocks": [
+            {
+              "createdOn": "Fri Jun 12 2020 02:50:41 GMT+0300 (Moscow Standard Time)",
+              "label": "Blockquote",
+              "text": "Autism Connections Fredericton is an amazing venue for birthday parties! I’m so happy that we chose to host my son’s 4th Birthday party there. The facility itself has a giant play area with oodles of toys and free space so party-goers can move around, a fully functional kitchen for food and snack prep and two bathrooms-so no line ups! The staff were friendly, professional and went the extra mile to ensure all our party needs were met. Birthday party expenses can quickly add up, but ACF is affordable and budget friendly giving great value for your dollars so you can focus on making memories. We will definitely be hosting future birthday’s at ACF!",
+              "person": "Happy parent",
+              "margin": {
+                "mt": "0",
+                "mb": "0",
+                "ml": "0",
+                "mr": "0"
+              },
+              "_template": "BlockquoteBlock"
+            }
+          ],
+          "alignContent": "start",
+          "justifyContent": "start",
+          "_template": "ColumnBlock"
+        }
+      ],
+      "_template": "ContainerRowBlock",
+      "enabled": true,
+      "settings": {
+        "spaceBelow": "4",
+        "spaceAbove": "1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "pageTitle": "Our news",
+  "posts": {
+    "label": "Posts",
+    "title": {
+      "label": "Title",
+      "title": "Newsroom",
+      "subtitle": "Latest updates and Hand-picked resources.",
+      "center": true,
+      "size": "Page header"
+    },
+    "spaceAbove": "3",
+    "spaceBelow": "0"
+  }
+}

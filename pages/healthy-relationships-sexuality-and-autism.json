@@ -1,0 +1,54 @@
+{
+  "pageTitle": "Healthy Relationships, Sexuality and Autism",
+  "date": "2020-11-12T02:44:18.120Z",
+  "path": "healthy-relationships-sexuality-and-autism",
+  "headerBlocks": [
+    {
+      "createdOn": "Wed Nov 11 2020 22:44:19 GMT-0400 (Atlantic Standard Time)",
+      "title": "Healthy Relationships, Sexuality and Autism",
+      "subtitle": "",
+      "heroImage": "/images/love2.jpg",
+      "posterImage": "/images/HRSA poster-page-001.jpg",
+      "_template": "HeroPosterBlock"
+    }
+  ],
+  "contentBlocks": [
+    {
+      "createdOn": "Sun Jan 03 2021 13:13:45 GMT-0400 (Atlantic Standard Time)",
+      "label": "",
+      "enabled": true,
+      "cols": [
+        {
+          "createdOn": "Sun Jan 03 2021 13:13:45 GMT-0400 (Atlantic Standard Time)",
+          "label": "",
+          "enabled": true,
+          "size": 8,
+          "blocks": [
+            {
+              "createdOn": "Sun Jan 03 2021 13:13:45 GMT-0400 (Atlantic Standard Time)",
+              "label": "",
+              "content": "<p>Autism Connections Fredericton is excited to announce that we are going to be offering Autism Nova Scotia's Healthy Relationships, Sexuality and Autism course.</p><p>Topics will include:</p><ul><li><p>Anatomy and Function</p></li><li><p>Gender and Sexual Orientation</p></li><li><p>Sexual Behaviours</p></li><li><p>Relationships</p></li><li><p>Dating</p></li><li><p>Emotions</p></li></ul><p>Individuals with Autism aged 19 and up are expected to participate.</p><p>Session are held on ZOOM video calling program. The sessions will take place on Tuesdays from 6:30 - 8:30 PM starting November. The course is 12 weeks long.</p><p><em>For more information contact: acf@nb.aibn.com or (506) 450-6025</em></p>",
+              "center": false,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ContentBlock"
+            }
+          ],
+          "settings": {
+            "alignContent": "center",
+            "justifyContent": "start"
+          },
+          "_template": "ColumnBlock"
+        }
+      ],
+      "settings": {
+        "spaceAbove": "2",
+        "spaceBelow": "2",
+        "alignContent": "center",
+        "bgColor": "white"
+      },
+      "_template": "ContainerRowBlock"
+    }
+  ]
+}

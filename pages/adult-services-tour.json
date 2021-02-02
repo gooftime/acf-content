@@ -1,0 +1,76 @@
+{
+  "pageTitle": "Adult Services Tour",
+  "date": "2021-01-07T03:37:29.241Z",
+  "path": "adult-services-tour",
+  "headerBlocks": [
+    {
+      "createdOn": "Wed Jan 06 2021 23:37:30 GMT-0400 (Atlantic Standard Time)",
+      "title": "Adult Services Tour",
+      "subtitle": "A provincial focus on services for adults with autism",
+      "heroImage": "/images/adults.jpg",
+      "posterImage": "/images/Screenshot 2021-01-06 at 23.42.53.png",
+      "_template": "HeroPosterBlock"
+    }
+  ],
+  "contentBlocks": [
+    {
+      "createdOn": "Wed Jan 06 2021 23:37:30 GMT-0400 (Atlantic Standard Time)",
+      "label": "",
+      "enabled": true,
+      "cols": [
+        {
+          "createdOn": "Wed Jan 06 2021 23:40:20 GMT-0400 (Atlantic Standard Time)",
+          "label": "",
+          "enabled": true,
+          "size": 8,
+          "blocks": [
+            {
+              "createdOn": "Wed Jan 06 2021 23:40:20 GMT-0400 (Atlantic Standard Time)",
+              "label": "",
+              "content": "<p>We are pleased to have completed the Adult Services Tour report. This exercise has helped bring focus to this important area of services and supply a snapshot reflecting what we heard and actions that could be taken to improve development and delivery of services. &nbsp;For more information on the report, please contact Autism Connections Fredericton. Click here to download the English or French version of the report.&nbsp;</p>",
+              "center": false,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ContentBlock"
+            },
+            {
+              "label": "",
+              "createdOn": "Wed Jan 06 2021 23:40:20 GMT-0400 (Atlantic Standard Time)",
+              "cardLabel": "A provincial focus on services for adults with autism",
+              "linkLabel": "Download",
+              "file": "/files/A PROVINCIAL FOCUS ON SERVICES FOR ADULTS WITH.pdf",
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "CardDownloadFileBlock"
+            },
+            {
+              "label": "",
+              "createdOn": "Wed Jan 06 2021 23:40:20 GMT-0400 (Atlantic Standard Time)",
+              "cardLabel": "Un accent provincial sur les services pour les adultes avec autisme",
+              "linkLabel": "Download",
+              "file": "/file.pdf",
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "CardDownloadFileBlock"
+            }
+          ],
+          "settings": {
+            "alignContent": "center",
+            "justifyContent": "start"
+          },
+          "_template": "ColumnBlock"
+        }
+      ],
+      "settings": {
+        "spaceAbove": "2",
+        "spaceBelow": "2",
+        "alignContent": "center",
+        "bgColor": "white"
+      },
+      "_template": "ContainerRowBlock"
+    }
+  ]
+}

@@ -1,0 +1,713 @@
+{
+  "path": "examples",
+  "label": "Examples",
+  "headerBlocks": [
+    {
+      "id": "2elwpbcvp",
+      "title": "Tutoring",
+      "subtitle": "Autism Connections Fredericton Presents: One-On-One Tutoring for Autistic Students",
+      "_template": "HeroPosterBlock",
+      "heroImage": "/images/tutoring_1.jpg",
+      "posterImage": "/images/tutoring-poster.png"
+    }
+  ],
+  "contentBlocks": [
+    {
+      "id": "f6sw1x4i5",
+      "label": "Main",
+      "width": 100,
+      "spaceAbove": "3",
+      "spaceBelow": "1",
+      "cols": [
+        {
+          "id": "7t41gpmww",
+          "label": "Main column",
+          "size": 10,
+          "blocks": [
+            {
+              "createdOn": "Sun Jun 21 2020 22:01:44 GMT-0300 (Atlantic Daylight Time)",
+              "label": "Readme",
+              "content": "<h4>Introduction</h4><p>When you go to any page of the admin site for the first time, from a new browser or after the server has been restarted, you will need to enter a password. If the password was entered correctly, the page will reload and you will see the site with admin panel. On each page there is a panel with settings only for this page, respectively, to change the desired page, you must first go to it.</p><h4>Global settings</h4><p>The site has global settings. To open them open the admin panel, then click on the menu icon at the top-left corner. A panel opens with a list of global settings.</p><p>At this juncture there are menus for:</p><ul><li><p>Menus (header and footer respectively);</p></li><li><p>Website config (domain, name, form send api);</p></li><li><p>Contact settings (contact information used by contact page, footer menu, etc.);</p></li><li><p>Files (here you can upload files and get links for them);</p></li></ul><h4>Create posts or pages</h4><p>To create post - click blue icon with plus at the top of side panel and choose what type of content you want to create.</p><h4>Post</h4><p>After you've created a post you will be redirected to the post's page where you could edit it. It has a pre-built template with image and text placeholders.</p><p>Do not forget to set up post preview description and image (it is used on main page, news page and when somebody will share the post). So you wouldn't need to check the preview card on Home page each time you edit it -&gt; for this there is a toggle called \"Preview card\" which you can enable and see how it would look like.</p><h4>Page</h4><p>Page is created empty, without any pre-built content templates. But it has couple of header's templates, such as simple and project headers.</p><p></p><p></p><h1 id=\"content-management\">Content management</h1><h4>Root</h4><p>Root elements of content are:</p><ul><li><p>Containers (read further);</p></li><li><p>Divider - it is just a gray line which help to divide containers blocks when you need so;</p></li><li><p>Side-panel - it is pre-built page template with categorized tabs (you can find it on programs page);</p></li></ul><h4>Container</h4><p>Container is a row with wide of 12 blocks. And all that can be added to Container are Columns.</p><p>Each Column has a setting called Size which define how wide the Column should be in the Container. By default column's size is 12, and it's a full container width. If you will add another column with size of 12 - it will wrap down and you will get two columns in row, but because of wrapping thay will be placed one under the other. Let's say we want to divide our Container for 2 columns, but they should be in the same row, then just set Columns' sizes to 6 for both. If you want different sizes or add more Columns - set them how you want but in sum they should be 12 to be on the same row.</p><h4>Columns and blocks</h4><p>After layout is defined, we can start to add Blocks to the page.</p><p>In each column can be added many different blocks. But better use each column just for one block, it will derive to the consistent behaviour of page layout.</p><p>Here is the actual list:</p><ul><li><p>Title;</p></li><li><p>Text;</p></li><li><p>Image;</p></li><li><p>Video;</p></li><li><p>Button Link;</p></li><li><p>Card (With button);</p></li><li><p>Alert;</p></li><li><p>Gallery Collage;</p></li><li><p>Photo Card;</p></li><li><p>Coloured Box;</p></li><li><p>Blockquote;</p></li><li><p>Tab Card;</p></li><li><p>Dark Text Block;</p></li><li><p>HTML;</p></li></ul><p>All of them have different settings, especially images (it has appear on scroll animation and transformation settings).</p><h4>Saving and Publishing</h4><p>When you click \"save\" - the system saves it to the local version control system. This change remains in the history forever, even if you are going to change the page and re-save it. It is better to click the save button when you have done reasonable amount of changes to the page. In you are going to reload the page, the data will not be removed, but if there will be not so many changes - in case of an emergency, it will be easy to roll back to the previous version of the website.</p>",
+              "center": false,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ContentBlock"
+            }
+          ],
+          "_template": "ColumnBlock",
+          "enabled": true
+        }
+      ],
+      "_template": "ContainerRowBlock",
+      "alignContent": "center",
+      "enabled": true,
+      "settings": {
+        "spaceAbove": "2",
+        "spaceBelow": "2",
+        "alignContent": "center"
+      }
+    },
+    {
+      "createdOn": "Sun Jun 21 2020 14:26:07 GMT-0300 (Atlantic Daylight Time)",
+      "label": "",
+      "spaceAbove": "0",
+      "spaceBelow": "0",
+      "_template": "HrBlock"
+    },
+    {
+      "createdOn": "Fri Jun 19 2020 21:39:54 GMT-0300 (Atlantic Daylight Time)",
+      "label": "Tabs",
+      "cols": [
+        {
+          "createdOn": "Fri Jun 19 2020 21:39:54 GMT-0300 (Atlantic Daylight Time)",
+          "label": "",
+          "size": 8,
+          "blocks": [
+            {
+              "createdOn": "Fri Jun 19 2020 21:39:54 GMT-0300 (Atlantic Daylight Time)",
+              "label": "Tabs",
+              "backgroudColor": "white",
+              "spaceAbove": "2",
+              "spaceBelow": "2",
+              "_template": "TabsBlock",
+              "tabs": [
+                {
+                  "createdOn": "Fri Jun 19 2020 21:39:54 GMT-0300 (Atlantic Daylight Time)",
+                  "title": "Tab1",
+                  "blocks": [
+                    {
+                      "createdOn": "Fri Jun 19 2020 21:39:54 GMT-0300 (Atlantic Daylight Time)",
+                      "label": "New",
+                      "content": "<h4><strong>Tutoring for Autistic Students</strong></h4><p>Autism Connection Fredericton has just completed their first term of our new inclusive tutoring program! The program was very successful and received many positive reviews from parents, students, and teachers. We will begin our second term of tutoring on January 6th, 2019. Tutoring availability is currently limited to Monday and Fridays after school but will expand mid January.</p>",
+                      "center": false,
+                      "margin": {
+                        "mb": "4"
+                      },
+                      "_template": "ContentBlock"
+                    }
+                  ]
+                },
+                {
+                  "createdOn": "Fri Jun 19 2020 21:39:54 GMT-0300 (Atlantic Daylight Time)",
+                  "title": "Tab2",
+                  "blocks": [
+                    {
+                      "label": "New",
+                      "title": "Image",
+                      "createdOn": "Fri Jun 19 2020 21:39:54 GMT-0300 (Atlantic Daylight Time)",
+                      "src": "/images/uploads/lightning-yellow.png",
+                      "width": 100,
+                      "height": 100,
+                      "margin": {
+                        "mb": "4"
+                      },
+                      "_template": "ImageBlock",
+                      "shadow": "large",
+                      "transform": {
+                        "scaleX": 1,
+                        "scaleY": 1,
+                        "rotate": 0,
+                        "skewX": 0,
+                        "skewY": 0
+                      }
+                    }
+                  ]
+                },
+                {
+                  "createdOn": "Fri Jun 19 2020 21:39:54 GMT-0300 (Atlantic Daylight Time)",
+                  "title": "Tab3",
+                  "blocks": [
+                    {
+                      "createdOn": "Fri Jun 19 2020 21:39:54 GMT-0300 (Atlantic Daylight Time)",
+                      "label": "Button",
+                      "title": "click?!",
+                      "color": "Danger",
+                      "design": "Large",
+                      "center": false,
+                      "url": "https://pointerpointer.com/",
+                      "margin": {
+                        "mb": "4"
+                      },
+                      "_template": "ButtonLinkBlock"
+                    }
+                  ]
+                }
+              ],
+              "width": 100,
+              "margin": {
+                "mb": "4"
+              }
+            }
+          ],
+          "settings": {
+            "alignContent": "center",
+            "justifyContent": "start"
+          },
+          "_template": "ColumnBlock",
+          "enabled": true
+        }
+      ],
+      "settings": {
+        "spaceAbove": "2",
+        "spaceBelow": "2",
+        "alignContent": "center",
+        "bgColor": "white"
+      },
+      "_template": "ContainerRowBlock",
+      "enabled": true
+    },
+    {
+      "createdOn": "Sun Jun 21 2020 13:19:50 GMT-0300 (Atlantic Daylight Time)",
+      "label": "Video & Html",
+      "enabled": true,
+      "cols": [
+        {
+          "createdOn": "Sun Jun 21 2020 13:19:50 GMT-0300 (Atlantic Daylight Time)",
+          "label": "Video",
+          "enabled": true,
+          "size": 7,
+          "blocks": [
+            {
+              "createdOn": "Sun Jun 21 2020 13:19:50 GMT-0300 (Atlantic Daylight Time)",
+              "label": "",
+              "width": "100",
+              "shadow": "medium",
+              "src": "https://www.youtube.com/embed/zpOULjyy-n8?rel=0",
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "VideoBlock"
+            }
+          ],
+          "settings": {
+            "alignContent": "center",
+            "justifyContent": "start"
+          },
+          "_template": "ColumnBlock"
+        },
+        {
+          "createdOn": "Sun Jun 21 2020 13:19:50 GMT-0300 (Atlantic Daylight Time)",
+          "label": "Html",
+          "enabled": true,
+          "size": 5,
+          "blocks": [
+            {
+              "createdOn": "Sun Jun 21 2020 13:19:50 GMT-0300 (Atlantic Daylight Time)",
+              "label": "",
+              "width": "100",
+              "html": "<h2>Pure HTML</h2>\n<p>\n  This is pure html block. It can be used for non-standard tasks.\n</p>\n<p class=\"text-danger\">Twitter Bootstrap (https://getbootstrap.com/) is included so you can use its classes as usual.</p>\n\n<div class=\"alert alert-info\">Hello, I'm a Bootstrap alert.</div>\n\n<div class=\"btn-group\">\n    <button class=\"btn btn-success\">And we</button>\n    <button class=\"btn btn-warning\">Are</button>\n    <button class=\"btn btn-danger\">Buttons</button>\n  </div>\n \n",
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "HtmlBlock"
+            }
+          ],
+          "settings": {
+            "alignContent": "center",
+            "justifyContent": "start"
+          },
+          "_template": "ColumnBlock"
+        }
+      ],
+      "settings": {
+        "spaceAbove": "2",
+        "spaceBelow": "2",
+        "alignContent": "center",
+        "bgColor": "white"
+      },
+      "_template": "ContainerRowBlock"
+    },
+    {
+      "createdOn": "Sat Jun 06 2020 01:55:06 GMT+0300 (Moscow Standard Time)",
+      "label": "header gallery",
+      "width": 100,
+      "spaceAbove": "2",
+      "spaceBelow": "2",
+      "alignContent": "between",
+      "cols": [
+        {
+          "createdOn": "Sat Jun 06 2020 01:55:06 GMT+0300 (Moscow Standard Time)",
+          "label": "Gallery column",
+          "size": 5,
+          "blocks": [
+            {
+              "createdOn": "Sat Jun 06 2020 02:04:53 GMT+0300 (Moscow Standard Time)",
+              "images": [
+                {
+                  "label": "New image",
+                  "createdOn": "Sat Jun 06 2020 02:06:55 GMT+0300 (Moscow Standard Time)",
+                  "image": "https://via.placeholder.com/200x200",
+                  "width": 25,
+                  "topShift": 0,
+                  "leftShift": 5,
+                  "zIndex": 1,
+                  "border": "white"
+                },
+                {
+                  "label": "New image",
+                  "createdOn": "Sat Jun 06 2020 02:16:15 GMT+0300 (Moscow Standard Time)",
+                  "image": "https://via.placeholder.com/200x200",
+                  "width": 55,
+                  "topShift": -20,
+                  "leftShift": 20,
+                  "zIndex": 0,
+                  "shadow": "no",
+                  "border": "circle"
+                },
+                {
+                  "label": "New image",
+                  "createdOn": "Sat Jun 06 2020 02:06:52 GMT+0300 (Moscow Standard Time)",
+                  "image": "https://via.placeholder.com/200x200",
+                  "width": 35,
+                  "topShift": -25,
+                  "leftShift": 60,
+                  "zIndex": 1,
+                  "border": "white"
+                }
+              ],
+              "_template": "GalleryCollageBlock",
+              "label": "Gallery"
+            }
+          ],
+          "_template": "ColumnBlock"
+        },
+        {
+          "createdOn": "Sat Jun 06 2020 01:55:06 GMT+0300 (Moscow Standard Time)",
+          "label": "text",
+          "size": 6,
+          "blocks": [
+            {
+              "createdOn": "Tue Jun 09 2020 02:44:09 GMT+0300 (Moscow Standard Time)",
+              "label": "New title",
+              "title": "Fundraising partners",
+              "size": "page header",
+              "center": false,
+              "_template": "TitleBlock",
+              "margin": {
+                "mb": "4"
+              }
+            },
+            {
+              "createdOn": "Sat Jun 06 2020 01:55:06 GMT+0300 (Moscow Standard Time)",
+              "label": "New text",
+              "content": "<p>ACF always welcomes initiatives raising awareness and funding in order to provide help for more people with ASD in greater Fredericton area and beyond. Are you interested in hosting a fundraiser for Autism Connections Fredericton? Do you have a special event or fundraising idea that you would like to share with us?</p><p>Please complete the form below and email to acf@nb.aibn.com or go to the contact us page to get in touch.</p>",
+              "center": false,
+              "_template": "ContentBlock"
+            },
+            {
+              "createdOn": "Tue Jun 09 2020 05:37:25 GMT+0300 (Moscow Standard Time)",
+              "label": "Button",
+              "title": "Change me",
+              "color": "Primary",
+              "center": false,
+              "_template": "ButtonLinkBlock",
+              "margin": {
+                "mt": "4"
+              },
+              "url": "#"
+            }
+          ],
+          "_template": "ColumnBlock"
+        }
+      ],
+      "_template": "ContainerRowBlock",
+      "backgroudColor": "light",
+      "enabled": true,
+      "settings": {
+        "spaceAbove": "2",
+        "spaceBelow": "2"
+      }
+    },
+    {
+      "createdOn": "Sat Jun 06 2020 05:20:06 GMT+0300 (Moscow Standard Time)",
+      "label": "Cards",
+      "width": 100,
+      "spaceAbove": "2",
+      "spaceBelow": "2",
+      "alignContent": "start",
+      "cols": [
+        {
+          "createdOn": "Sat Jun 06 2020 05:22:22 GMT+0300 (Moscow Standard Time)",
+          "label": "Art1",
+          "size": 4,
+          "blocks": [
+            {
+              "label": "New card",
+              "createdOn": "Sat Jun 06 2020 05:22:22 GMT+0300 (Moscow Standard Time)",
+              "title": "Change me",
+              "description": "And me",
+              "image": "https://via.placeholder.com/300x150",
+              "_template": "PhotoCardBlock",
+              "margin": {
+                "mb": "4"
+              }
+            }
+          ],
+          "_template": "ColumnBlock",
+          "enabled": true
+        },
+        {
+          "createdOn": "Sat Jun 06 2020 05:25:10 GMT+0300 (Moscow Standard Time)",
+          "label": "Text",
+          "size": 4,
+          "blocks": [
+            {
+              "createdOn": "Sat Jun 06 2020 05:25:10 GMT+0300 (Moscow Standard Time)",
+              "label": "New title",
+              "title": "Alarma! Ж",
+              "center": true,
+              "_template": "TitleBlock",
+              "subtitle": "",
+              "margin": {
+                "mb": "4"
+              }
+            },
+            {
+              "createdOn": "Sat Jun 06 2020 05:25:10 GMT+0300 (Moscow Standard Time)",
+              "label": "Description",
+              "content": "<p>Please conscider helping our centre by buying these and other beautiful arts.</p>",
+              "center": true,
+              "_template": "ContentBlock",
+              "margin": {
+                "mb": "4"
+              }
+            }
+          ],
+          "_template": "ColumnBlock",
+          "enabled": true
+        },
+        {
+          "createdOn": "Sat Jun 06 2020 05:20:06 GMT+0300 (Moscow Standard Time)",
+          "label": "Art2",
+          "size": 4,
+          "blocks": [
+            {
+              "label": "New card",
+              "createdOn": "Sat Jun 06 2020 05:22:22 GMT+0300 (Moscow Standard Time)",
+              "title": "Change me",
+              "description": "And me",
+              "image": "https://via.placeholder.com/300x150",
+              "_template": "PhotoCardBlock",
+              "margin": {
+                "mb": "4"
+              }
+            }
+          ],
+          "_template": "ColumnBlock",
+          "enabled": true
+        },
+        {
+          "createdOn": "Sat Jun 06 2020 05:25:10 GMT+0300 (Moscow Standard Time)",
+          "label": "Art3",
+          "size": 4,
+          "blocks": [
+            {
+              "label": "New",
+              "createdOn": "Sat Jun 06 2020 05:25:10 GMT+0300 (Moscow Standard Time)",
+              "title": "Change me",
+              "description": "And me",
+              "image": "https://via.placeholder.com/300x150",
+              "_template": "PhotoCardBlock",
+              "margin": {
+                "mb": "4"
+              }
+            }
+          ],
+          "_template": "ColumnBlock",
+          "enabled": true
+        },
+        {
+          "createdOn": "Sat Jun 06 2020 05:25:10 GMT+0300 (Moscow Standard Time)",
+          "label": "Art4",
+          "size": 4,
+          "blocks": [
+            {
+              "label": "New",
+              "createdOn": "Sat Jun 06 2020 05:25:10 GMT+0300 (Moscow Standard Time)",
+              "title": "Change me",
+              "description": "And me",
+              "image": "https://via.placeholder.com/300x150",
+              "_template": "PhotoCardBlock",
+              "margin": {
+                "mb": "4"
+              }
+            }
+          ],
+          "_template": "ColumnBlock",
+          "enabled": true
+        },
+        {
+          "createdOn": "Sat Jun 06 2020 05:25:10 GMT+0300 (Moscow Standard Time)",
+          "label": "Art5",
+          "size": 4,
+          "blocks": [
+            {
+              "label": "New",
+              "createdOn": "Sat Jun 06 2020 05:25:10 GMT+0300 (Moscow Standard Time)",
+              "title": "Change me",
+              "description": "And me",
+              "image": "https://via.placeholder.com/300x150",
+              "_template": "PhotoCardBlock",
+              "margin": {
+                "mb": "4"
+              }
+            }
+          ],
+          "_template": "ColumnBlock",
+          "enabled": true
+        }
+      ],
+      "_template": "ContainerRowBlock",
+      "enabled": true,
+      "settings": {
+        "spaceAbove": "2",
+        "spaceBelow": "2"
+      }
+    },
+    {
+      "createdOn": "Sat Jun 06 2020 06:31:45 GMT+0300 (Moscow Standard Time)",
+      "label": "Divider",
+      "spaceAbove": "0",
+      "spaceBelow": "0",
+      "_template": "HrBlock"
+    },
+    {
+      "createdOn": "Sat Jun 06 2020 06:31:45 GMT+0300 (Moscow Standard Time)",
+      "label": "Blockquotes and Colored boxes",
+      "width": 100,
+      "spaceAbove": "2",
+      "spaceBelow": "2",
+      "alignContent": "start",
+      "cols": [
+        {
+          "createdOn": "Sat Jun 06 2020 06:31:45 GMT+0300 (Moscow Standard Time)",
+          "label": "Box 1",
+          "size": 5,
+          "blocks": [
+            {
+              "createdOn": "Sat Jun 06 2020 08:47:03 GMT+0300 (Moscow Standard Time)",
+              "label": "Colored box",
+              "title": "Box title",
+              "description": "Short description of what is this box about.",
+              "linkLabel": "Learn more",
+              "linkUrl": "#",
+              "color": "primary",
+              "_template": "ColoredBoxBlock",
+              "margin": {
+                "mb": "4"
+              }
+            }
+          ],
+          "_template": "ColumnBlock",
+          "enabled": true
+        },
+        {
+          "createdOn": "Sat Jun 06 2020 08:47:03 GMT+0300 (Moscow Standard Time)",
+          "label": "Box 3",
+          "size": 3,
+          "blocks": [
+            {
+              "createdOn": "Sat Jun 06 2020 08:47:03 GMT+0300 (Moscow Standard Time)",
+              "label": "Colored box",
+              "title": "Box title",
+              "description": "<p>Short description of what is this box about.</p>",
+              "linkLabel": "Learn more",
+              "linkUrl": "#",
+              "color": "warning",
+              "_template": "ColoredBoxBlock",
+              "margin": {
+                "mb": "4"
+              }
+            }
+          ],
+          "_template": "ColumnBlock",
+          "enabled": true
+        },
+        {
+          "createdOn": "Sat Jun 06 2020 08:47:03 GMT+0300 (Moscow Standard Time)",
+          "label": "Box 2",
+          "size": 4,
+          "blocks": [
+            {
+              "createdOn": "Sat Jun 06 2020 08:47:03 GMT+0300 (Moscow Standard Time)",
+              "label": "Colored box",
+              "title": "Box title",
+              "description": "Short description of what is this box about.",
+              "linkLabel": "Learn more",
+              "linkUrl": "#",
+              "color": "danger",
+              "_template": "ColoredBoxBlock",
+              "margin": {
+                "mb": "4"
+              }
+            }
+          ],
+          "_template": "ColumnBlock",
+          "enabled": true
+        },
+        {
+          "createdOn": "Sat Jun 06 2020 08:47:03 GMT+0300 (Moscow Standard Time)",
+          "label": "Blockquote",
+          "size": 12,
+          "blocks": [
+            {
+              "createdOn": "Sat Jun 06 2020 08:47:03 GMT+0300 (Moscow Standard Time)",
+              "label": "Blockquote",
+              "text": "Autism Connections Fredericton is an amazing venue for birthday parties! I’m so happy that we chose to host my son’s 4th Birthday party there. The facility itself has a giant play area with oodles of toys and free space so party-goers can move around, a fully functional kitchen for food and snack prep and two bathrooms-so no line ups! The staff were friendly, professional and went the extra mile to ensure all our party needs were met. Birthday party expenses can quickly add up, but ACF is affordable and budget friendly giving great value for your dollars so you can focus on making memories. We will definitely be hosting future birthday’s at ACF!",
+              "person": "Happy parent",
+              "_template": "BlockquoteBlock",
+              "margin": {
+                "mt": "5",
+                "mb": "4"
+              }
+            }
+          ],
+          "_template": "ColumnBlock",
+          "enabled": true
+        }
+      ],
+      "_template": "ContainerRowBlock",
+      "enabled": true,
+      "settings": {
+        "spaceAbove": "2",
+        "spaceBelow": "2"
+      }
+    },
+    {
+      "createdOn": "Tue Jun 09 2020 20:06:09 GMT+0300 (Moscow Standard Time)",
+      "label": "Divider",
+      "spaceAbove": "0",
+      "spaceBelow": "0",
+      "_template": "HrBlock"
+    },
+    {
+      "createdOn": "Tue Jun 09 2020 20:06:09 GMT+0300 (Moscow Standard Time)",
+      "label": "Alert",
+      "width": 100,
+      "spaceAbove": "2",
+      "spaceBelow": "2",
+      "alignContent": "center",
+      "cols": [
+        {
+          "createdOn": "Sun Jun 21 2020 14:26:07 GMT-0300 (Atlantic Daylight Time)",
+          "label": "",
+          "enabled": true,
+          "size": 4,
+          "blocks": [
+            {
+              "createdOn": "Sun Jun 21 2020 14:26:07 GMT-0300 (Atlantic Daylight Time)",
+              "label": "",
+              "title": "Public statement from ACF regarding COVID-19 outbreak",
+              "message": "<p>Autism Connections Fredericton would like to acknowledge the urgency of prioritizing the health and safety of all our member families, individuals and service providers as well as the wider community.</p>",
+              "variant": "Info",
+              "light": true,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "AlertBlock"
+            }
+          ],
+          "settings": {
+            "alignContent": "center",
+            "justifyContent": "start"
+          },
+          "_template": "ColumnBlock"
+        },
+        {
+          "createdOn": "Sun Jun 21 2020 14:26:07 GMT-0300 (Atlantic Daylight Time)",
+          "label": "",
+          "enabled": true,
+          "size": 4,
+          "blocks": [
+            {
+              "createdOn": "Sun Jun 21 2020 14:26:07 GMT-0300 (Atlantic Daylight Time)",
+              "label": "",
+              "title": "Public statement regarding COVID-19",
+              "message": "<p>Autism Connections Fredericton would like to acknowledge the urgency of prioritizing the health and safety of all our member families, individuals and service providers as well as the wider community.</p>",
+              "variant": "Danger",
+              "light": true,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "AlertBlock"
+            }
+          ],
+          "settings": {
+            "alignContent": "center",
+            "justifyContent": "start"
+          },
+          "_template": "ColumnBlock"
+        },
+        {
+          "createdOn": "Tue Jun 09 2020 20:11:22 GMT+0300 (Moscow Standard Time)",
+          "label": "",
+          "size": 4,
+          "blocks": [
+            {
+              "createdOn": "Tue Jun 09 2020 20:11:22 GMT+0300 (Moscow Standard Time)",
+              "label": "Alert",
+              "title": "Public statement from ACF regarding COVID-19 outbreak",
+              "message": "<p>Autism Connections Fredericton would like to acknowledge the urgency of prioritizing the health and safety of all our member families, individuals and service providers as well as the wider community.</p>",
+              "variant": "Primary",
+              "center": false,
+              "_template": "AlertBlock",
+              "color": "Success",
+              "light": false,
+              "margin": {
+                "mb": "4"
+              }
+            }
+          ],
+          "_template": "ColumnBlock",
+          "enabled": true
+        }
+      ],
+      "_template": "ContainerRowBlock",
+      "backgroudColor": "white",
+      "enabled": true,
+      "settings": {
+        "spaceAbove": "2",
+        "spaceBelow": "2",
+        "alignContent": "center"
+      }
+    },
+    {
+      "createdOn": "Fri Jun 12 2020 07:41:23 GMT+0300 (Moscow Standard Time)",
+      "label": "Dark Text Row",
+      "width": 100,
+      "spaceAbove": "2",
+      "spaceBelow": "2",
+      "alignContent": "start",
+      "cols": [
+        {
+          "createdOn": "Fri Jun 12 2020 07:41:23 GMT+0300 (Moscow Standard Time)",
+          "label": "Column",
+          "size": 12,
+          "blocks": [
+            {
+              "createdOn": "Fri Jun 12 2020 07:41:23 GMT+0300 (Moscow Standard Time)",
+              "label": "Dark text block",
+              "text": "Each contribution made by our supporters allows us to give more to those in our community who need special assistance and support. We wholeheartedly thank you for your help! With it, ACF is able to make even more lives of people with ASD better.",
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "DarkTextBlockBlock"
+            }
+          ],
+          "alignContent": "start",
+          "justifyContent": "start",
+          "_template": "ColumnBlock",
+          "enabled": true
+        }
+      ],
+      "_template": "ContainerRowBlock",
+      "enabled": true,
+      "settings": {
+        "spaceAbove": "2",
+        "spaceBelow": "2"
+      }
+    }
+  ],
+  "pageTitle": "Tutoring"
+}

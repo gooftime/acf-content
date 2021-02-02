@@ -1,0 +1,54 @@
+{
+  "pageTitle": "Chat'n'Chill",
+  "date": "2020-06-19T06:36:02.813Z",
+  "path": "chat-n-chill",
+  "headerBlocks": [
+    {
+      "createdOn": "Fri Jun 19 2020 03:36:07 GMT-0300 (Atlantic Daylight Time)",
+      "title": "Chat'n'Chill ",
+      "subtitle": "",
+      "heroImage": "https://via.placeholder.com/1250x500",
+      "posterImage": "https://via.placeholder.com/320x400",
+      "_template": "HeroPosterBlock"
+    }
+  ],
+  "contentBlocks": [
+    {
+      "createdOn": "Fri Jan 22 2021 13:50:50 GMT-0400 (Atlantic Standard Time)",
+      "label": "",
+      "enabled": true,
+      "cols": [
+        {
+          "createdOn": "Fri Jan 22 2021 13:50:50 GMT-0400 (Atlantic Standard Time)",
+          "label": "",
+          "enabled": true,
+          "size": 12,
+          "blocks": [
+            {
+              "createdOn": "Fri Jan 22 2021 13:50:50 GMT-0400 (Atlantic Standard Time)",
+              "label": "",
+              "content": "<p><strong>What is the Autistic Adults Chat 'n' Chill Group?&nbsp;</strong></p><p>The Autistic Adults Chat ‘n’ Chill Group is a once-monthly meetup that takes place on the second Tuesday of the month in the evening. It is an informal get-together fostering opportunities for connections, friendships, activities and recreation. Meetings are held virtually at this time by reason of the pandemic. Meetings and activities will resume with a hybrid model (virtually and in-person) once public health guidelines allow it. This group is Autistic-led and welcomes Autistic adults across New Brunswick ages 18+ and recognized Autistic people (no need for a formal diagnosis).</p><p></p><p><strong>How do I contact someone if I am interested?</strong></p><p>Please contact group organizer Louise Tardif at&nbsp;<a href=\"mailto:louise.tardif5@gmail.com\">louise.tardif5@gmail.com</a></p><p><br></p><p><br></p>",
+              "center": false,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ContentBlock"
+            }
+          ],
+          "settings": {
+            "alignContent": "center",
+            "justifyContent": "start"
+          },
+          "_template": "ColumnBlock"
+        }
+      ],
+      "settings": {
+        "spaceAbove": "2",
+        "spaceBelow": "2",
+        "alignContent": "center",
+        "bgColor": "white"
+      },
+      "_template": "ContainerRowBlock"
+    }
+  ]
+}

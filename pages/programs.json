@@ -1,0 +1,99 @@
+{
+  "contentBlocks": [
+    {
+      "createdOn": "Sat Jun 13 2020 20:43:52 GMT+0300 (Moscow Standard Time)",
+      "label": "Tabs",
+      "backgroudColor": "white",
+      "spaceAbove": "2",
+      "spaceBelow": "3",
+      "_template": "TabsBlock",
+      "title": {
+        "label": ""
+      },
+      "tabs": [
+        {
+          "createdOn": "Sat Jun 13 2020 21:14:16 GMT+0300 (Moscow Standard Time)",
+          "title": "Autism Safety Registry",
+          "blocks": [
+            {
+              "createdOn": "Sat Jun 13 2020 21:14:16 GMT+0300 (Moscow Standard Time)",
+              "label": "Title",
+              "title": "Autism Safety Registry",
+              "size": "Header 1",
+              "center": false,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "TitleBlock"
+            },
+            {
+              "createdOn": "Sat Jun 13 2020 21:14:16 GMT+0300 (Moscow Standard Time)",
+              "label": "Text",
+              "content": "<p>Individuals with an autism spectrum disorder are now required to fill out the Vulnerable Persons Registry that can be found on the City of Fredericton's&nbsp;<a href=\"http://www.fredericton.ca/sites/default/files/pdf/vulnerable_persons_registry_0.pdf\">website</a>. The Vulnerable Person Registry is a registration system which allows citizens to record vital information pertaining to vulnerable family members or other persons in their care. This information will be used to assist police and other emergency services personnel, in the event of an incident involving the registered person.​ Once the form is filled out, please mail or drop off the completed form to the Fredericton Police Department.</p><p>Anyone who has previously filled out the autism registry form with Autism Connections Fredericton will be contacted during the month of the registrant's birthday. You will then be informed to fill out the Vulnerable Persons Registry form and submit it to the Fredericton Police Department via mail or drop off. Autism Connections Fredericton will no longer be accepting the Vulnerable Persons Registry forms.</p><h4><strong>Definition of a “Vulnerable” Person</strong></h4><p>Any person having mental acuity deficiencies wherein the person cannot appreciate their surroundings and recognize the inherent dangers of environmental circumstances they find themselves in; Any elderly person who is not medically diagnosed with a form of dementia, but by virtue of a mental infirmity causes him/her to wander and is a safety danger to themselves or others; Alzheimer’s disease, Dementia, Parkinson’s, Autism Spectrum Disorder, Acquired Brain Injury etc. Not all persons afflicted with these conditions need be registered - only if the caregiver or family member believes that their condition affects their cognitive ability AND they may pose a danger to themselves or others.</p><h4><strong>Goal of Registry</strong></h4><p>The goal of the program is to give police quick access to critical information about a bona fide registered individual in an emergency situation.</p><h4><strong>Register annually</strong></h4><p>Annual registration is required to keep your form active. It is the responsibility of the applicant to re-submit the form. It is recommended that you re-submit on the registrant’s birthday to make it easier to remember.</p><h4><strong>How to Register</strong></h4><p>Print off and complete&nbsp;<a href=\"http://www.fredericton.ca/sites/default/files/pdf/vulnerable_persons_registry_0.pdf\">this form</a>&nbsp;and mail or drop off to:</p><p><em>Fredericton Police Force<br>Attn: Vulnerable Persons Registry<br>311 Queen Street<br>Fredericton, NB<br>E3B 1B1</em></p><p>Please include a color photograph of vulnerable person with every registration. All registrations will be confirmed by a member of the Fredericton Police Force. Please be advised that it will be the responsibility of the caregiver to re-new registrations on a yearly basis and/or update any change of the registrant during that year</p><h4><strong>York Sunbury Ground Search &amp; Rescue</strong></h4><p>The York Sunbury Ground Search &amp; Rescue program is pleased to introduce Project Lifesaver. This new initiative allows caregivers of individuals with autism spectrum disorder or other diverse needs to monitor a person's location through the use of a wearable wristband in the event of an emergency. In the event that the wearer were to go missing, the search and rescue team would use the wristband to track the individual's location and facilitate the search process.</p><p>For more information, contact the York Sunbury Search &amp; Rescue team for a free consultation.</p><p>​Call (506) 461-5832 or visit&nbsp;<a href=\"https://yssr.ca/\">YSSR.ca</a></p>",
+              "center": false,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ContentBlock"
+            }
+          ]
+        },
+        {
+          "createdOn": "Sat Jun 13 2020 20:59:52 GMT+0300 (Moscow Standard Time)",
+          "title": "Financial Programs & Services",
+          "blocks": [
+            {
+              "createdOn": "Sat Jun 13 2020 20:59:52 GMT+0300 (Moscow Standard Time)",
+              "label": "Title",
+              "title": "Financial Programs & Services",
+              "size": "Header 1",
+              "center": false,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "TitleBlock"
+            },
+            {
+              "createdOn": "Sat Jun 13 2020 20:59:52 GMT+0300 (Moscow Standard Time)",
+              "label": "Text",
+              "content": "<h4><strong># Child Disability Benefit (CDB)</strong></h4><p>The child disability benefit (CDB) is a tax-free benefit for families who care for a child under age 18 who is eligible for the disability tax credit.</p><p><a href=\"http://www.cra-arc.gc.ca/bnfts/dsblty-eng.html\" title=\"http://www.cra-arc.gc.ca/bnfts/dsblty-eng.html\">http://www.cra-arc.gc.ca/bnfts/dsblty-eng.html</a></p><h4><strong># Directory of financial aid for persons with disabilities in New Brunswick</strong></h4><p>Listing of various Federal/Provincial resources.</p><p><a href=\"http://www2.gnb.ca/content/dam/gnb/Departments/pcsdp-cpmcph/pdf/directories/FinancialAssistanceIncomeE.pdf\" title=\"http://www2.gnb.ca/content/dam/gnb/Departments/pcsdp-cpmcph/pdf/directories/FinancialAssistanceIncomeE.pdf\">http://www2.gnb.ca/content/dam/gnb/Departments/pcsdp-cpmcph/pdf/directories/FinancialAssistanceIncomeE.pdf</a></p><h4><strong># </strong>Registered Disability Savings Plan (RDSP)</h4><p>The Registered Disability Savings Plan (RDSP) is a long-term savings plan to help Canadians with disabilities and their families save for the future.</p><p><a href=\"http://www.esdc.gc.ca/eng/disability/savings/index.shtml\" title=\"http://www.esdc.gc.ca/eng/disability/savings/index.shtml\">http://www.esdc.gc.ca/eng/disability/savings/index.shtml</a></p><h4><strong># </strong>Tax credits and deductions for persons with disabilities</h4><p>Tax credits and deductions are available for persons with disabilities, their supporting family members, and their caregivers.</p><p><a href=\"http://www.cra-arc.gc.ca/tx/ndvdls/sgmnts/dsblts/menu-eng.html\" title=\"http://www.cra-arc.gc.ca/tx/ndvdls/sgmnts/dsblts/menu-eng.html\">http://www.cra-arc.gc.ca/tx/ndvdls/sgmnts/dsblts/menu-eng.html</a></p>",
+              "center": false,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ContentBlock"
+            }
+          ]
+        },
+        {
+          "createdOn": "Sat Jun 13 2020 20:43:52 GMT+0300 (Moscow Standard Time)",
+          "title": "Ready Willing and Able",
+          "blocks": [
+            {
+              "createdOn": "Sat Jun 13 2020 20:59:52 GMT+0300 (Moscow Standard Time)",
+              "label": "Title",
+              "title": "Ready Willing and Able",
+              "size": "Header 1",
+              "center": false,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "TitleBlock"
+            },
+            {
+              "createdOn": "Sat Jun 13 2020 20:59:52 GMT+0300 (Moscow Standard Time)",
+              "label": "Text",
+              "content": "<p>Autism Connections Fredericton has launched an initiative with Ready, Willing &amp; Able and we can help you find meaningful employment!</p><p>For more information please contact: Sydney Allen – Autism Employment Outreach Coordinator&nbsp;<a href=\"mailto:sallen@autismns.ca\">sallen@autismns.ca</a>&nbsp;or&nbsp;<a href=\"tel:+1(506) 304 2767\">+1(506) 304 2767</a></p><p>Sydney Allen is our Autism Employment Outreach Coordinator. She can help you find employment and supports in several different ways:</p><ul><li><p>Finding employment preparation programs</p></li><li><p>Sending you job opportunities from inclusive employers</p></li><li><p>Connecting you to agencies that can help you with employment coaching and supports</p></li></ul>",
+              "center": false,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ContentBlock"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pageTitle": "Programs"
+}

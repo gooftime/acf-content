@@ -1,0 +1,547 @@
+{
+  "pageTitle": "Camp Marvel",
+  "date": "2020-06-11T19:00:17.808Z",
+  "path": "camp-marvel",
+  "headerBlocks": [],
+  "contentBlocks": [
+    {
+      "createdOn": "Thu Jun 11 2020 22:00:20 GMT+0300 (Moscow Standard Time)",
+      "label": "Hero",
+      "width": 100,
+      "spaceAbove": "1",
+      "spaceBelow": "2",
+      "alignContent": "start",
+      "cols": [
+        {
+          "createdOn": "Thu Jun 11 2020 22:00:20 GMT+0300 (Moscow Standard Time)",
+          "label": "Text",
+          "size": 7,
+          "blocks": [
+            {
+              "createdOn": "Thu Jun 11 2020 22:00:20 GMT+0300 (Moscow Standard Time)",
+              "label": "Title",
+              "title": "Camp Marvel",
+              "size": "Page header",
+              "center": false,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "TitleBlock"
+            },
+            {
+              "createdOn": "Thu Jun 11 2020 22:00:20 GMT+0300 (Moscow Standard Time)",
+              "label": "Text",
+              "content": "<p>Planning summer holidays for your child? Looking for an opportunity to teach your child some social skills? Here we are.</p><p>Fun, individual, unique, safe, inclusive – these are words describing our summer program for your child. Autism Connections Fredericton and the University of New Brunswick are working together to provide your child with fabulous summer camp memories, opportunity to learn social skills with an individual assistance. A whole week of exciting activities will be offered: crafts, games, outings, and even more.</p>",
+              "center": false,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ContentBlock"
+            },
+            {
+              "createdOn": "Thu Jun 11 2020 22:00:20 GMT+0300 (Moscow Standard Time)",
+              "label": "Button",
+              "title": "See schedule and prices",
+              "color": "Primary",
+              "design": "Wide",
+              "center": false,
+              "url": "#prices",
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ButtonLinkBlock"
+            }
+          ],
+          "_template": "ColumnBlock",
+          "justifyContent": "end",
+          "enabled": true,
+          "settings": {
+            "justifyContent": "end"
+          }
+        },
+        {
+          "createdOn": "Thu Jun 11 2020 22:00:20 GMT+0300 (Moscow Standard Time)",
+          "label": "Image",
+          "size": 5,
+          "blocks": [
+            {
+              "label": "boy",
+              "title": "Camp Marvel",
+              "createdOn": "Thu Jun 11 2020 22:09:22 GMT+0300 (Moscow Standard Time)",
+              "src": "/images/uploads/Camp-Marvel-flyer-2020.png",
+              "toggle": false,
+              "margin": {
+                "mt": "0",
+                "mb": "0",
+                "ml": "0",
+                "mr": "0"
+              },
+              "_template": "ImageBlock",
+              "h100": false,
+              "shadow": "none",
+              "width": 70,
+              "height": 100
+            }
+          ],
+          "_template": "ColumnBlock",
+          "alignContent": "center",
+          "enabled": true
+        }
+      ],
+      "_template": "ContainerRowBlock",
+      "enabled": true,
+      "settings": {
+        "alignContent": "center",
+        "spaceAbove": "1",
+        "spaceBelow": "2"
+      }
+    },
+    {
+      "createdOn": "Thu Jun 11 2020 23:00:31 GMT+0300 (Moscow Standard Time)",
+      "label": "About camp",
+      "width": 100,
+      "spaceAbove": "2",
+      "spaceBelow": "2",
+      "alignContent": "center",
+      "cols": [
+        {
+          "createdOn": "Thu Jun 11 2020 23:00:31 GMT+0300 (Moscow Standard Time)",
+          "label": "Column",
+          "size": 10,
+          "blocks": [
+            {
+              "createdOn": "Thu Jun 11 2020 23:00:31 GMT+0300 (Moscow Standard Time)",
+              "label": "Title",
+              "title": "About Camp",
+              "size": "Header 1",
+              "center": true,
+              "margin": {
+                "mt": "0",
+                "mb": "4",
+                "ml": "0",
+                "mr": "0"
+              },
+              "_template": "TitleBlock"
+            },
+            {
+              "createdOn": "Thu Jun 11 2020 23:00:31 GMT+0300 (Moscow Standard Time)",
+              "label": "Text",
+              "content": "<p>Autism Connections Fredericton (ACF) and the University of New Brunswick’s Skills Program are teaming up to present Camp Marvel. We are offering a unique camp for children on the autism spectrum with a one-to-one camper to counsellor ratio. Six week-long half-day camps will be held between June 29th and August 7th. Camp Marvel will be located at the ACF Centre at 1666 Lincoln Road, which offers a safe, inclusive, and fun space.</p><p>We will offer an engaging week full of activities, crafts, games, outings and more. We will provide opportunities to learn social skills and enrichment activities with the individual assistance needed to meet the unique needs of our campers. Our goal is to help our campers create the fabulous summer camp memories they deserve.</p>",
+              "center": false,
+              "margin": {
+                "mt": "0",
+                "mb": "0",
+                "ml": "0",
+                "mr": "0"
+              },
+              "_template": "ContentBlock"
+            }
+          ],
+          "alignContent": "start",
+          "_template": "ColumnBlock",
+          "justifyContent": "start"
+        }
+      ],
+      "_template": "ContainerRowBlock",
+      "backgroudColor": "light",
+      "enabled": true,
+      "settings": {
+        "alignContent": "center",
+        "spaceAbove": "2",
+        "spaceBelow": "2",
+        "bgColor": "light"
+      }
+    },
+    {
+      "createdOn": "Thu Jun 11 2020 23:19:27 GMT+0300 (Moscow Standard Time)",
+      "label": "Gallery",
+      "width": 100,
+      "spaceAbove": "2",
+      "spaceBelow": "2",
+      "alignContent": "center",
+      "cols": [
+        {
+          "createdOn": "Thu Jun 11 2020 23:19:27 GMT+0300 (Moscow Standard Time)",
+          "label": "Left Column",
+          "size": 5,
+          "blocks": [
+            {
+              "label": "Image",
+              "title": "Image",
+              "createdOn": "Thu Jun 11 2020 23:19:27 GMT+0300 (Moscow Standard Time)",
+              "src": "/images/uploads/child-14.jpg",
+              "width": 100,
+              "height": 100,
+              "margin": {
+                "mt": "0",
+                "mb": "4",
+                "ml": "0",
+                "mr": "0"
+              },
+              "_template": "ImageBlock",
+              "shadow": "medium"
+            }
+          ],
+          "alignContent": "start",
+          "_template": "ColumnBlock",
+          "justifyContent": "center"
+        },
+        {
+          "createdOn": "Thu Jun 11 2020 23:19:27 GMT+0300 (Moscow Standard Time)",
+          "label": "Right Column",
+          "size": 4,
+          "blocks": [
+            {
+              "label": "Image",
+              "title": "Image",
+              "createdOn": "Thu Jun 11 2020 23:19:27 GMT+0300 (Moscow Standard Time)",
+              "src": "/images/uploads/tutoring_8.jpg",
+              "width": 100,
+              "height": 100,
+              "margin": {
+                "mt": "0",
+                "mb": "4",
+                "ml": "0",
+                "mr": "0"
+              },
+              "_template": "ImageBlock",
+              "h100": false,
+              "shadow": "medium"
+            },
+            {
+              "label": "Image",
+              "title": "Image",
+              "createdOn": "Thu Jun 11 2020 23:19:27 GMT+0300 (Moscow Standard Time)",
+              "src": "/images/uploads/child-11.jpg",
+              "width": 100,
+              "height": 100,
+              "margin": {
+                "mt": "0",
+                "mb": "4",
+                "ml": "0",
+                "mr": "0"
+              },
+              "_template": "ImageBlock",
+              "shadow": "medium"
+            }
+          ],
+          "alignContent": "start",
+          "_template": "ColumnBlock",
+          "justifyContent": "center",
+          "enabled": true,
+          "settings": {
+            "alignContent": "start",
+            "justifyContent": "center"
+          }
+        }
+      ],
+      "_template": "ContainerRowBlock",
+      "enabled": true,
+      "settings": {
+        "alignContent": "center",
+        "spaceAbove": "1",
+        "spaceBelow": "1"
+      }
+    },
+    {
+      "createdOn": "Fri Jun 12 2020 00:08:03 GMT+0300 (Moscow Standard Time)",
+      "label": "Schedule and Prices",
+      "width": 100,
+      "spaceAbove": "2",
+      "spaceBelow": "2",
+      "alignContent": "center",
+      "cols": [
+        {
+          "createdOn": "Fri Jun 12 2020 00:08:03 GMT+0300 (Moscow Standard Time)",
+          "label": "Title",
+          "size": 10,
+          "blocks": [
+            {
+              "createdOn": "Fri Jun 12 2020 00:08:03 GMT+0300 (Moscow Standard Time)",
+              "label": "Title",
+              "title": "Schedule and Prices",
+              "size": "Header 1",
+              "center": true,
+              "margin": {
+                "mt": "0",
+                "mb": "5",
+                "ml": "0",
+                "mr": "0"
+              },
+              "_template": "TitleBlock"
+            }
+          ],
+          "alignContent": "start",
+          "justifyContent": "start",
+          "_template": "ColumnBlock",
+          "enabled": true,
+          "settings": {
+            "justifyContent": "start"
+          }
+        },
+        {
+          "createdOn": "Fri Jun 19 2020 20:43:45 GMT-0300 (Atlantic Daylight Time)",
+          "label": "Left",
+          "size": 5,
+          "blocks": [
+            {
+              "createdOn": "Fri Jun 19 2020 20:43:45 GMT-0300 (Atlantic Daylight Time)",
+              "label": "Text",
+              "content": "<p><strong>Half-day camps - 8AM - 1:00PM</strong></p><p><strong>Week 1:&nbsp;</strong>June 29th - July 3rd (4 day camp)&nbsp;<strong>Ages 9-12</strong></p><p><strong>Week 2:</strong>&nbsp;July 6th - July 10th&nbsp;<strong>Ages 5-8</strong></p><p><strong>Week 3:&nbsp;</strong>July 13th - 17th&nbsp;<strong>Ages 9-12</strong></p>",
+              "center": false,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ContentBlock"
+            }
+          ],
+          "settings": {
+            "alignContent": "center",
+            "justifyContent": "start"
+          },
+          "_template": "ColumnBlock",
+          "enabled": true
+        },
+        {
+          "createdOn": "Fri Jun 19 2020 20:43:45 GMT-0300 (Atlantic Daylight Time)",
+          "label": "Right",
+          "size": 5,
+          "blocks": [
+            {
+              "createdOn": "Fri Jun 19 2020 20:43:45 GMT-0300 (Atlantic Daylight Time)",
+              "label": "Text",
+              "content": "<p></p><p><strong>Week 4:</strong>&nbsp;July 20th - July 24th&nbsp;<strong>Ages 6-12</strong></p><p><strong>Week 5:</strong>&nbsp;July 27th - 31st&nbsp;<strong>Ages 9-15</strong></p><p><strong>Week 6:</strong>&nbsp;August 4th - August 7th (4 day camp)&nbsp;<strong>Ages 5-8</strong></p>",
+              "center": false,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ContentBlock"
+            }
+          ],
+          "settings": {
+            "alignContent": "center",
+            "justifyContent": "start"
+          },
+          "_template": "ColumnBlock",
+          "enabled": true
+        },
+        {
+          "createdOn": "Fri Jun 19 2020 20:43:45 GMT-0300 (Atlantic Daylight Time)",
+          "label": "Bottom",
+          "size": 10,
+          "blocks": [
+            {
+              "createdOn": "Fri Jun 19 2020 20:43:45 GMT-0300 (Atlantic Daylight Time)",
+              "label": "Text",
+              "content": "<p><strong>Cost: $200 per full week, $160 for a 4 day week</strong></p>",
+              "center": false,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "ContentBlock"
+            }
+          ],
+          "settings": {
+            "alignContent": "center",
+            "justifyContent": "start"
+          },
+          "_template": "ColumnBlock",
+          "enabled": true
+        }
+      ],
+      "_template": "ContainerRowBlock",
+      "backgroudColor": "light",
+      "id": "prices",
+      "enabled": true,
+      "settings": {
+        "alignContent": "center",
+        "spaceAbove": "1",
+        "bgColor": "light",
+        "spaceBelow": "1",
+        "id": "prices"
+      }
+    },
+    {
+      "createdOn": "Fri Jun 12 2020 00:08:03 GMT+0300 (Moscow Standard Time)",
+      "label": "Aftercare Play program",
+      "width": 100,
+      "spaceAbove": "2",
+      "spaceBelow": "0",
+      "alignContent": "center",
+      "cols": [
+        {
+          "createdOn": "Fri Jun 12 2020 00:08:03 GMT+0300 (Moscow Standard Time)",
+          "label": "Column",
+          "size": 10,
+          "blocks": [
+            {
+              "createdOn": "Fri Jun 12 2020 00:08:03 GMT+0300 (Moscow Standard Time)",
+              "label": "Title",
+              "title": "Aftercare Play program",
+              "size": "Header 1",
+              "center": true,
+              "margin": {
+                "mt": "0",
+                "mb": "4",
+                "ml": "0",
+                "mr": "0"
+              },
+              "_template": "TitleBlock"
+            },
+            {
+              "createdOn": "Fri Jun 12 2020 00:08:03 GMT+0300 (Moscow Standard Time)",
+              "label": "Text",
+              "content": "<p>Afternoon childcare is available for children who require additional supervision from 1:00-4:30 PM. Cost per week is&nbsp;$75. This service is open to anyone, not just campers.</p><p>Families can apply for financial support for camp through the Department of Social Development or through Canadian Tire’s Jumpstart program. Contact us for more information</p><p>To Register: Please fill out the form below and return it to Autism Connections Fredericton</p>",
+              "center": false,
+              "margin": {
+                "mt": "0",
+                "mb": "4",
+                "ml": "0",
+                "mr": "0"
+              },
+              "_template": "ContentBlock"
+            }
+          ],
+          "alignContent": "start",
+          "justifyContent": "start",
+          "_template": "ColumnBlock"
+        }
+      ],
+      "_template": "ContainerRowBlock",
+      "enabled": true,
+      "settings": {
+        "alignContent": "center",
+        "spaceAbove": "1",
+        "spaceBelow": "1"
+      }
+    },
+    {
+      "createdOn": "Fri Jun 12 2020 00:08:03 GMT+0300 (Moscow Standard Time)",
+      "label": "Ready to register?",
+      "width": 100,
+      "spaceAbove": "1",
+      "spaceBelow": "2",
+      "alignContent": "start",
+      "cols": [
+        {
+          "createdOn": "Fri Jun 12 2020 00:08:03 GMT+0300 (Moscow Standard Time)",
+          "label": "Left Column",
+          "size": 3,
+          "blocks": [
+            {
+              "label": "Image",
+              "title": "Image",
+              "createdOn": "Fri Jun 12 2020 00:08:03 GMT+0300 (Moscow Standard Time)",
+              "src": "/images/uploads/lightning-yellow.png",
+              "width": 100,
+              "height": 100,
+              "margin": {
+                "mt": "0",
+                "mb": "4",
+                "ml": "0",
+                "mr": "0"
+              },
+              "_template": "ImageBlock"
+            }
+          ],
+          "alignContent": "center",
+          "justifyContent": "start",
+          "_template": "ColumnBlock",
+          "enabled": true,
+          "settings": {
+            "justifyContent": "start",
+            "alignContent": "center"
+          }
+        },
+        {
+          "createdOn": "Fri Jun 12 2020 00:08:03 GMT+0300 (Moscow Standard Time)",
+          "label": "Text Column",
+          "size": 5,
+          "blocks": [
+            {
+              "createdOn": "Fri Jun 12 2020 00:08:03 GMT+0300 (Moscow Standard Time)",
+              "label": "Title",
+              "title": "Ready to register?",
+              "size": "Header 1",
+              "center": true,
+              "margin": {
+                "mt": "0",
+                "mb": "4",
+                "ml": "0",
+                "mr": "0"
+              },
+              "_template": "TitleBlock",
+              "subtitle": "Please fill out the form below and return it to Autism Connections Fredericton"
+            },
+            {
+              "label": "Card (download file)",
+              "createdOn": "Fri Jun 12 2020 02:42:38 GMT+0300 (Moscow Standard Time)",
+              "cardLabel": "Registration form",
+              "linkLabel": "Download",
+              "file": "/files/Camp Marvel_2020.docx",
+              "margin": {
+                "mt": "0",
+                "mb": "4",
+                "ml": "0",
+                "mr": "0"
+              },
+              "_template": "CardDownloadFileBlock"
+            },
+            {
+              "createdOn": "Fri Jun 19 2020 20:43:45 GMT-0300 (Atlantic Daylight Time)",
+              "label": "New",
+              "title": "Camp Update in Response to Covid-19",
+              "message": "<p>To download - <a href=\"/files/Camp Update.docx\" title=\"Camp Update\">click here</a>.</p>",
+              "variant": "Warning",
+              "light": true,
+              "margin": {
+                "mb": "4"
+              },
+              "_template": "AlertBlock"
+            }
+          ],
+          "alignContent": "start",
+          "justifyContent": "center",
+          "_template": "ColumnBlock",
+          "enabled": true
+        },
+        {
+          "createdOn": "Fri Jun 12 2020 00:08:03 GMT+0300 (Moscow Standard Time)",
+          "label": "Right Column",
+          "size": 3,
+          "blocks": [
+            {
+              "label": "Image",
+              "title": "Image",
+              "createdOn": "Fri Jun 12 2020 00:08:03 GMT+0300 (Moscow Standard Time)",
+              "src": "/images/uploads/lightning-blue.png",
+              "width": 100,
+              "height": 100,
+              "margin": {
+                "mt": "0",
+                "mb": "4",
+                "ml": "0",
+                "mr": "0"
+              },
+              "_template": "ImageBlock"
+            }
+          ],
+          "alignContent": "center",
+          "justifyContent": "start",
+          "_template": "ColumnBlock",
+          "enabled": true,
+          "settings": {
+            "alignContent": "center"
+          }
+        }
+      ],
+      "_template": "ContainerRowBlock",
+      "enabled": true,
+      "settings": {
+        "alignContent": "center",
+        "spaceAbove": "1",
+        "spaceBelow": "2"
+      }
+    }
+  ]
+}
